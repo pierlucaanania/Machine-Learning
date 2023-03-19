@@ -1,2 +1,2 @@
-# ML from Scratch
+# Machine Learning
 ML codes to explain most important techniques
