@@ -27,3 +27,4 @@ This is known as [accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision
 Submission File Format You should submit a csv file with exactly 300 entries plus a header row. 
 Your submission will show an error if you have extra columns or rows. 
 The file should have exactly 2 columns: - Id (sorted in any order) - Category (contains your binary predictions: 1 for like, 0 for dislike)
+ 
