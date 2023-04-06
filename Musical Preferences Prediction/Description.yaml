@@ -1,0 +1,86 @@
+Track:
+    description: "Track title"
+    values: "String value"
+Album_type:
+    description: "Type of the albom"
+    values:
+        compilation: "Compiltaion from different albums - means that this release is not the first version of the track"
+        single: "Single-track release"
+Energy:
+    description: "Continuouse value, describing energy of the track"
+    values: "0-100"
+Artists:
+    description: "Artists names"
+    values: "String values, separated with '|'"
+Artists Genres:
+    description: "The list of ganres for the specified artist (not the current track)"
+    values: "Ganres labels separated by '|'"
+Duration:
+    description: "Track duration in milliseconds"
+    values: "Integer value from 0 to inf"
+Album:
+    description: "Album title"
+    values: "String value"
+Category:
+    description: "Target binary values"
+    values: "1 - Like, 0 - Dislike"
+Release year:
+    description: "The year of the albom release"
+    values: "Year number"
+Vocal:
+    description: "Types of the vocals in the track"
+    values: "Values, separated with '|' (M - male, F- female, N - no vocal)"
+Dancebility:
+    description: "Continuouse value, describing dancebility of the track"
+    values: "0-100"
+"Labels":
+    description: "Record labels"
+    values: "string value, separated with '|'"
+Key:
+    description: "The group of pitches, or scale, that forms the basis of a music composition"
+    values: "Contains from identifier of the tonic chord from A to G, # or ♭, Major or Minor triad"
+Happiness:
+    description: "Continuouse value, describing happiness of the track"
+    values: "0-100"
+BPM:
+    description: "Beats-Per-Minute - the measure of tempo"
+    values: "integer value from 0 to inf"
+Version:
+    description: "Track version description"
+    values:
+        - "Radio Edit"
+        - "Remaster"
+        - "Remix"
+        - "Single Edit"
+        - "Soundtrack"
+Country:
+    description: "Codes of countries of production"
+    values: 
+        AT:  "Austria"
+        AU:  "Australia"
+        BEL: "Belarus"
+        BAR: "Barbados"
+        CA:  "Canada"
+        COL: "Colombia"
+        DE:  "Germany"
+        DK:  "Denmark"
+        FIN: "Finland"
+        FR:  "France"
+        IRL: "Ireland"
+        ITL: "Italy"
+        JM:  "Jamaica"
+        KZ:  "Kazakhstan"
+        KR:  "South Korea"
+        NO:  "Norway"
+        NED: "Netherlands"
+        POR: "Portugal"
+        RUS: "Russia"
+        SWE: "Sweden"
+        UA:  "Ukraine"
+        JP:  "Japan"
+        TR:  "Trinidad"
+        AZE: "Azerbaijan"
+        GB:  "Great Britain"
+        NA:  "Not available"
+        USA: "USA"
+

@@ -1,0 +1,666 @@
+Id,Category,Artists,Track,Version,Duration,Artists_Genres,Album,Release_year,Album_type,Labels,Key,BPM,Vocal ,Country,Energy,Dancebility,Happiness
+0,0,Avatar,Hail the Apocalypse,,253660,metal,Hail the Apocalypse,2014,,Gain,F# Major,93,M,SWE,99.0,42.0,30.0
+1,1,Céline Dion,My Heart Will Go On,Soundtrack,284150,soundtrack|classical|pop,My Love Ultimate Essential Collection,2019,,Sony Music Entertainment Canada,E Major,99,F,CA,28.0,43.0,4.0
+2,1,Adele,Skyfall,Soundtrack,286480,pop,Skyfall,2012,single,Melted Stone|Skyfall|Columbia,C Minor,76,F,GB,55.0,35.0,8.0
+3,1,Kiss,I Was Made for Lovin' You,Soundtrack,268440,hardrock|rock|foreignrap,KISS Box Set,2001,,The Island Def Jam,E Major,128,M,USA,85.0,77.0,87.0
+4,0,Kanye West,Stronger,,311420,foreignrap,Graduation,2007,,A Roc-A-Fella Records release,B♭ Minor,104,M,USA,72.0,62.0,49.0
+5,1,Macklemore|Ryan Lewis|Wänz,Thrift Shop,,235610,rnb|foreignrap|dance|pop|house|eastern|soul,The Heist,2012,,Macklemore,A♭ Major,95,M,USA,28.0,69.0,33.0
+6,0,T-Fest,Время догонит нас,,224780,rusrap,Время догонит нас,2021,single,Gazgolder,F Major,140,M,UA,43.0,74.0,33.0
+7,1,AC/DC,Highway to Hell,,208920,hardrock,Iron Man 2,2010,,Leidseplein Presse|Australian,F# Minor,116,M,AU,91.0,57.0,42.0
+8,1,Beyoncé,Run the World (Girls),,236150,pop,4,2012,,Sony,C Major,127,F,USA,90.0,73.0,76.0
+9,1,The Notorious B.I.G.,Hypnotize,Remaster,229820,rnb|foreignrap|dance,Music Inspired By Biggie: I Got A Story To Tell,2021,,Rhino Entertainment Company,A Major,94,M,USA,70.0,90.0,67.0
+10,1,The Doors,Riders on the Storm,,434720,allrock,L.A. Woman,1971,,Elektra|Rhino,B Minor,104,M,USA,72.0,55.0,72.0
+11,0,Руки Вверх!,Deep House,,200960,ruspop,Deep House,2021,single,Gamma Music,E Major,117,M,RUS,71.0,78.0,57.0
+12,1,BLACKPINK,Kill This Love,,189050,kpop,KILL THIS LOVE,2019,,YG Entertainment,D Minor,132,F,KR,83.0,76.0,64.0
+13,1,Lenny Kravitz,Low (DIMMI Rework),,257420,rock,Low,2018,single,BMG Rights Management (UK)|Roxie,E♭ Minor,109,M,USA,82.0,73.0,59.0
+14,0,Black Eyed Peas,Shut Up,,310090,rnb|foreignrap|pop,Elephunk,2003,,Interscope Geffen (A&M)|Universal Music,D Major,113,F|M,USA,72.0,80.0,57.0
+15,1,Little Big,Life in da Trash,,201760,dance,With Russia from Love,2014,,Little Big,B♭ Major,126,F|M,RUS,98.0,65.0,26.0
+16,0,Kasabian,Club Foot,,215360,rock,Kasabian,2016,,BMG UK & Ireland,C Major,102,M,GB,92.0,24.0,12.0
+17,0,Skrillex|Sirah,Bangarang,Soundtrack,215250,electronics|pop|foreignrap|dance,Bangarang EP,2011,,Big Beat,G Major,110,M,USA,64.0,79.0,47.0
+18,0,Thyrfing,Mjölner,,331000,metal|extrememetal,Urkraft,2021,,Despotz,D Minor,98,M,SWE,86.0,26.0,54.0
+19,0,50 Cent,In Da Club,Soundtrack,227780,foreignrap,Get Rich Or Die Tryin',2003,,Shady Records|Interscope|Aftermath,F# Minor,90,M,USA,72.0,90.0,81.0
+20,1,Mac Miller,Hurt Feelings,,245640,soul|foreignrap|pop,Swimming,2018,,Warner,A♭ Major,158,M,USA,46.0,69.0,32.0
+21,1,Massive Attack,Teardrop,Soundtrack,330770,electronics,Teardrop,1998,single,Virgin,B Minor,77,M,GB,42.0,62.0,22.0
+22,0,Tom Waits,Sea Of Love,Remaster,223260,blues,"Orphans: Brawlers, Bawlers & Bastards",2006,,AnTi,C Minor,114,M,USA,62.0,51.0,43.0
+23,1,MIKA,"Relax, Take It Easy",Radio Edit,219950,foreignbard|pop,Relax / Lollipop Bundle,2007,single,Universal-Island,F# Minor,122,M,GB,68.0,67.0,75.0
+24,0,Deep Purple,Smoke On The Water,Remaster,343440,hardrock,Deepest Purple: The Very Best Of Deep Purple,2010,,Parlophone,C Major,114,M,GB,59.0,63.0,89.0
+25,1,Red Hot Chili Peppers,Otherside,,255400,rock,The Studio Album Collection 1991-2011,2014,,Warner,C Major,123,M,USA,80.0,46.0,51.0
+26,1,The Subways,Rock & Roll Queen,Radio Edit,170520,rock|dance|alternative,Young for Eternity,2005,,The Echo Label,B♭ Minor,142,M,GB,75.0,38.0,26.0
+27,0,Chase & Status,No Problem,,250660,electronics|dance|dnb,No More Idols,2011,,Chase & Status,F# Minor,112,M,USA,99.0,39.0,10.0
+28,0,Skrillex,Scary Monsters and Nice Sprites,,243850,electronics|foreignrap|dance,5 Years of Big Beat,2016,compilation,Big Beat,G Minor,140,N,USA,94.0,52.0,32.0
+29,0,6ix9ine|Nicki Minaj|Murda Beatz,FEFE,,179400,rap|foreignrap|dance|pop|latinfolk|soul,DUMMY BOY,2018,,6IX9INE,D♭ Major,126,F|M,USA,39.0,93.0,38.0
+30,0,Sub Focus|Alex Clare|Fred V|Grafix|N Douwma,Endorphins,Remix,275330,pop|dance|dnb|rock|electronics,UKF Drum & Bass 2013,2013,compilation,UKF,B Minor,174,M,NA,86.0,47.0,10.0
+31,1,twenty one pilots,Screen,,229120,indie,Vessel,2013,,Fueled By Ramen,C Major,150,M,USA,71.0,72.0,84.0
+32,1,The Roots|Son Little,Sleep,,135620,foreignrap|soul,Undun,2011,,The Island Def Jam,B♭ Major,78,M,GB,49.0,77.0,73.0
+33,0,Sigma|Paloma Faith,Changing,,205060,foreignrap|pop|dance|dnb|foreignbard,Life,2015,,3Beat,E Minor,120,F,USA,61.0,77.0,86.0
+34,0,Tom Waits,Make It Rain,,218620,blues,Real Gone,2004,,AnTi,F# Minor,91,M,USA,55.0,56.0,65.0
+35,0,Månegarm,Tvenne drömmar,,286550,folkmetal,Fornaldarsagor,2019,,Napalm Records Handels,G Minor,168,M,SWE,81.0,37.0,37.0
+36,1,Justin Timberlake,Mirrors,,485360,rnb|foreignrap|pop,The 20/20 Experience,2013,,Sony,F Minor,77,M,USA,51.0,57.0,51.0
+37,0,twenty one pilots,The Pantaloon,,213200,indie,Twenty One Pilots,2009,,Twenty One Pilots,A Major,100,M,USA,64.0,73.0,59.0
+38,0,Rihanna|Jay-Z,Umbrella,,276000,foreignrap|rnb|dance|pop,Good Girl Gone Bad: Reloaded,2008,,The Island Def Jam,D♭ Major,174,F|M,USA,83.0,58.0,57.0
+39,0,Post Malone,White Iverson,,256530,alternative|foreignrap|dance,Stoney,2016,,Universal Music,G Major,130,M,USA,56.0,68.0,31.0
+40,0,NILETTO,Любимка,,219690,ruspop,Любимка,2019,,Zion Music,G Minor,130,M,RUS,77.0,85.0,54.0
+41,0,Post Malone|Swae Lee,Sunflower,Soundtrack,157560,alternative|pop|foreignrap|dance,Hollywood's Bleeding,2019,,Universal Music,D Major,90,M,USA,48.0,76.0,91.0
+42,1,Ariana Grande,7 rings,,178620,pop,"thank u, next",2019,,Universal Music,D♭ Minor,140,F,USA,32.0,78.0,33.0
+43,0,E-Z Rollers,Walk This Land,,230330,electronics|dance|dnb,"«Карты, деньги, два ствола»",2005,compilation,SKA,D♭ Major,163,F,GB,85.0,67.0,94.0
+44,1,Imagine Dragons|Wiz Khalifa|Lil Wayne|X Ambassadors|Ty Dolla $ign|Logic,Sucker For Pain,Soundtrack,244170,rnb|foreignrap|pop|dance|alternative|rock,Suicide Squad: The Album,2016,compilation,Atlantic,A Minor,169,M,USA,79.0,50.0,74.0
+45,1,Robbie Williams,Angels,,265000,pop,Life Thru A Lens,2013,,Universal Music operations|Universal Island,E Major,150,M,GB,59.0,44.0,25.0
+46,0,Jennifer Lopez|Pitbull,On The Floor,Radio Edit,230950,foreignrap|dance|pop|latinfolk,On The Floor,2011,single,Gianni Raschiatore,B Major,130,F|M,USA,69.0,76.0,44.0
+47,1,Иван Дорн,Во сне,,307700,pop,Страсть во сне опомнись,2019,,Masterskaya|Condorn Company,C Major,115,M,UA,49.0,82.0,81.0
+48,1,MONATIK,УВЛИУВТ ,,242110,pop,Звучит,2016,,Первое музыкальное,B♭ Minor,116,M,UA,60.0,84.0,45.0
+49,1,Black Eyed Peas,Pump It,Radio Edit,215130,rnb|foreignrap|pop,Hip To The Hop: 30th Anniversary Of Hip Hop Hip To Da Hop,2009,compilation,Universal International,D♭ Minor,154,F|M,USA,93.0,65.0,74.0
+50,1,Hozier,Take Me To Church,,241680,indie,Hozier,2014,,Rubyworks,E Minor,129,M,IRL,66.0,57.0,44.0
+51,1,Billie Eilish,bellyache,,179170,indie,dont smile at me,2017,,Darkroom|Interscope,E Minor,100,F,USA,57.0,69.0,41.0
+52,1,Limp Bizkit,Take A Look Around,,319900,numetal|rock|alternative,Chocolate Starfish And The Hot Dog Flavored Water,2008,,Interscope,B Major,102,M,USA,85.0,43.0,51.0
+53,1,Black Eyed Peas,I Gotta Feeling,,289490,rnb|foreignrap|pop,Torcida 2018 - Nacional e Internacional,2018,compilation,Universal Music,C Major,128,F|M,USA,77.0,74.0,61.0
+54,1,Fergie|will.i.am,Fergalicious,,292370,rnb|electronics,The Dutchess Deluxe,2007,,A&M,F# Major,129,F|M,USA,76.0,80.0,22.0
+55,0,Tommy Cash|Элджей,Nalik,,199250,rusrap|foreignrap|alternative|dance,MONEYSUTRA,2021,,TOMMY CASH,D Major,103,M,RUS,62.0,70.0,4.0
+56,0,Gorillaz,Rhinestone Eyes,,200170,indie,Plastic Beach,2010,,Parlophone,A♭ Minor,93,M,GB,70.0,68.0,85.0
+57,1,Taylor Swift|Brendon Urie,ME!,,193000,alternative|country|pop,Lover,2019,,Taylor Swift,C Major,91,F|M,USA,83.0,61.0,73.0
+58,0,Вера Брежнева,Любовь спасёт мир,Soundtrack,210380,ruspop,Любовь спасёт мир,2010,,Вера Брежнева,D Minor,123,F,UA,93.0,66.0,72.0
+59,0,Pain,Same Old Song,,235650,industrial,Dancing With The Dead,2004,,Universal Music,D♭ Minor,95,F,SWE,77.0,42.0,10.0
+60,0,Status Quo,In The Army Now,,281100,hardrock,In The Army Now - The Collection,2002,,Universal Music,A Minor,105,M,GB,60.0,50.0,85.0
+61,0,Avicii,Hey Brother,,257090,pop|electronics|dance,Handball Wam Up,2020,compilation,FP,G Minor,125,M,SWE,78.0,55.0,46.0
+62,1,Ed Sheeran|Travis Scott,Antisocial,,161740,foreignrap|pop|dance,No.6 Collaborations Project,2019,,an Asylum Records UK release|Atlantic Records UK,F Minor,152,M,USA|GB,82.0,72.0,91.0
+63,1,Marilyn Manson,Tainted Love,,200100,alternative,Lest We Forget: The Best Of,2004,,Interscope,A♭ Major,142,M,USA,95.0,64.0,51.0
+64,0,OneRepublic,All The Right Moves,,238000,rock|dance|pop,Waking Up,2010,,Interscope,C Major,146,M,USA,95.0,53.0,65.0
+65,1,System of A Down,Chop Suey!,,210240,numetal|rock|alternative,Toxicity,2001,,Sony Music Entertainment. With American,G Minor,127,M,USA,93.0,42.0,29.0
+66,1,Red Hot Chili Peppers,Look Around,,208000,rock,The Studio Album Collection 1991-2011,2014,,Warner,G Minor,112,M,USA,95.0,56.0,52.0
+67,1,Rihanna,Bitch Better Have My Money,,219300,rnb|dance|pop,Bitch Better Have My Money,2015,single,Westbury Road Entertainment|Roc Nation,D♭ Major,103,F,USA,73.0,78.0,40.0
+68,0,Lady Gaga,Judas,,249060,pop,Born This Way,2011,,Interscope,B♭ Minor,131,F,USA,94.0,66.0,54.0
+69,0,Travis Scott|Young Thug|M.I.A.,FRANCHISE,,202790,rnb|foreignrap|pop|dance|electronics,FRANCHISE,2020,single,Epic Records. With Cactus Jack,A♭ Minor,155,F|M,USA|GB,70.0,83.0,55.0
+70,1,twenty one pilots,Tear in My Heart,,188490,indie,Blurryface,2015,,Fueled By Ramen,D Major,120,M,USA,63.0,65.0,45.0
+71,0,Lady Gaga,Bad Romance,,294500,pop,The Fame Monster,2009,,Interscope,C Major,119,F,USA,92.0,70.0,71.0
+72,1,M.I.A.,Paper Planes,,205200,foreignrap|dance|electronics,Kala,2007,,XL,D Major,172,F,GB,85.0,45.0,49.0
+73,1,Robbie Williams,Party Like a Russian,,182900,classicalmasterpieces|modern|classical|pop,The Heavy Entertainment Show,2016,,Farrell|Robert Williams,C Major,148,M,GB,91.0,49.0,36.0
+74,0,SAYGRACE|G-Eazy,You Don't Own Me,,198720,foreignrap|pop,Memo,2015,,Sony,G Major,93,F|M,USA,63.0,33.0,26.0
+75,1,Shakira|Wyclef Jean,Hips Don't Lie,,217380,foreignrap|dance|pop|latinfolk,"Oral Fixation, Vol. 2",2005,,Sony Music Entertainment (Holland),B♭ Minor,100,F,COL,82.0,78.0,76.0
+76,0,The Script|will.i.am,Hall of Fame,,201000,electronics|rock|pop,#3,2012,,Sony Music Entertainment UK,B Major,136,M,USA,32.0,49.0,20.0
+77,0,Green Day,Troubled Times,,184810,rock|punk|alternative,Revolution Radio,2016,,Reprise,C Major,118,M,USA,88.0,57.0,47.0
+78,0,twenty one pilots,Polarize,,226780,indie,Blurryface,2015,,Fueled By Ramen,F# Minor,165,M,USA,67.0,60.0,63.0
+79,1,BLACKPINK,Pretty Savage,,199160,kpop,THE ALBUM,2020,,YG Entertainment,A Minor,152,F,KR,56.0,70.0,33.0
+80,1,OK Go,The One Moment,,223840,alternative|rock|pop,Hungry Ghosts,2015,,OK Go|BMG Rights Management (US),C Major,124,M,USA,81.0,51.0,38.0
+81,1,The Pussycat Dolls,Hush Hush,,228330,rnb|pop,Doll Domination,2008,,Pussycat Dolls,B♭ Minor,129,F,USA,78.0,61.0,63.0
+82,0,Frank Sinatra|Antonio Carlos Jobim,The Girl From Ipanema,,194040,pop|holiday|latinfolk|folk|jazz,Ultimate Sinatra: The Centennial Collection,2015,,Universal Music Enterprises,F Major,134,M,USA,32.0,54.0,55.0
+83,1,Kings Of Leon,Waste A Moment,,183090,alternative,WALLS,2016,,Sony,D Major,153,M,USA,85.0,44.0,54.0
+84,1,Marilyn Manson,Killing Strangers,,336480,alternative,The Pale Emperor,2015,,Hell,F Major,60,M,USA,55.0,59.0,51.0
+85,0,Reamonn,Tonight,,215130,rock|pop,Lifestyle2 - Acoustic Vol 2,2006,compilation,,E Minor,145,M,DE,72.0,53.0,22.0
+86,1,twenty one pilots,My Blood,,229120,indie,Trench,2018,,Fueled By Ramen,D♭ Major,109,M,USA,72.0,75.0,67.0
+87,0,BLACKPINK,Crazy Over You,,161990,kpop,THE ALBUM,2020,,YG Entertainment,E Major,115,F,KR,63.0,80.0,67.0
+88,0,MORGENSHTERN|Элджей,Cadillac,,177610,rusrap,Cadillac,2020,single,Zhara Distribution,D Major,105,M,RUS,74.0,96.0,67.0
+89,0,A$AP Ferg,Plain Jane,,173600,foreignrap,Still Striving,2017,,Sony,B Major,170,M,USA,84.0,80.0,52.0
+90,1,Black Eyed Peas|Ozuna|J. Rey Soul,MAMACITA,,251420,rnb|foreignrap|pop|latinfolk,TRANSLATION,2020,,BEP,D Major,105,F|M,USA,63.0,89.0,43.0
+91,0,will.i.am|Britney Spears,Scream & Shout,Radio Edit,252730,pop|electronics,Top Music Non Stop vol.3,2013,compilation,Universal Music,F Major,130,F|M,USA,69.0,77.0,50.0
+92,0,Yves Larock,Rise Up,,206130,house|dance|electronics,Rise Up,2009,,Медиалайн,D Major,128,M,SWE,80.0,65.0,86.0
+93,1,Kings Of Leon,Reverend,,234080,alternative,WALLS,2016,,Sony,C Minor,125,M,USA,81.0,45.0,22.0
+94,0,MORGENSHTERN|Тимати,El Problema,,136170,rusrap|dance|ruspop,Транзит,2020,,TIMATI,E♭ Minor,107,M,RUS,64.0,95.0,37.0
+95,0,Paramore,Decode (Twilight Version),Soundtrack,261960,rock|alternative|newwave,Brand New Eyes,2009,,Fueled By Ramen|Atlantic,B♭ Minor,116,F,USA,12.0,64.0,67.0
+96,1,Mac Miller,Perfecto,,215410,soul|foreignrap|pop,Swimming,2018,,Warner,D♭ Major,148,M,USA,32.0,60.0,20.0
+97,1,The Black Keys,Howlin' for You,Soundtrack,191800,rock|blues|alternative,100 Greatest 10s: The Best Songs of Last Decade,2019,compilation,Rhino UK|Warner Music UK,B Major,133,M,USA,74.0,70.0,45.0
+98,0,U.D.O.,Man And Machine,,340910,metal|rock|classicmetal,Metallized,2007,,AFM|Soulfood Music Distribution,E Minor,88,M,DE,90.0,57.0,46.0
+99,0,The Mamas & The Papas,California Dreamin',,157760,folkrock|rock|pop,Live and Alternative Songs,2009,,bELA,D♭ Minor,112,F|M,USA,61.0,55.0,64.0
+100,1,Скриптонит,Положение,,282620,rusrap,Уроборос: Улица 36,2017,,Gazgolder,D♭ Minor,63,M,KZ,54.0,58.0,24.0
+101,0,LMFAO,Sexy and I Know It,Soundtrack,199560,foreignrap|dance|pop,Nyårsfest,2020,compilation,FP,G Major,130,M,USA,86.0,71.0,80.0
+102,1,Kings Of Leon,Use Somebody,,231090,alternative,Only By The Night,2008,,Sony,C Major,137,M,USA,71.0,28.0,17.0
+103,1,Coldplay,Adventure Of A Lifetime,Radio Edit,223050,rock,Adventure of a Lifetime,2015,single,Parlophone,G Major,112,M,GB,92.0,64.0,53.0
+104,1,Скриптонит|104,Цепи,,207160,rusrap,Праздник на улице 36,2017,,Gazgolder,D♭ Major,160,M,KZ,66.0,72.0,56.0
+105,0,GUF,Ice Baby,,252170,rusrap,Дома,2014,,"SBA Production LLC, a Warner Music Group Company",E Minor,86,M,RUS,53.0,71.0,75.0
+106,1,"Tyler, The Creator|A$AP Rocky",Who Dat Boy,,205090,rnb|foreignrap|pop,Flower Boy,2017,,Sony,A♭ Major,115,M,USA,49.0,71.0,14.0
+107,0,twenty one pilots,Message Man,,240080,indie,Blurryface,2015,,Fueled By Ramen,D Minor,120,M,USA,84.0,71.0,50.0
+108,0,Markul,2 минуты,,150000,rusrap,2 минуты,2020,single,MARKUL|FRWRD,G Minor,104,M,RUS,67.0,76.0,43.0
+109,1,Скриптонит|Charusha,Космос,,227690,rusrap|ruspop,Gazgolder. К тебе,2015,compilation,Gazgolder,C Minor,78,M,KZ,49.0,52.0,55.0
+110,1,Robbie Williams,Feel,,264090,pop,Escapology,2002,,Robert Williams|The In Good Company,F Major,98,M,GB,73.0,60.0,29.0
+111,0,CENTR|Баста,Город дорог,,270570,rusrap,Качели,2014,,"SBA Production LLC, a Warner Music Group Company",A♭ Major,168,M,RUS,81.0,68.0,73.0
+112,1,Marilyn Manson,Personal Jesus,,248610,alternative,Queer As Folk - The Final Season,2010,compilation,Sony BMG Music Entertainment,E Minor,130,M,USA,94.0,58.0,30.0
+113,0,6ix9ine,PUNANI,,115250,rap|foreignrap|latinfolk,TattleTales,2020,,6IX9INE,A Major,98,M,USA,54.0,84.0,42.0
+114,1,Miley Cyrus,Wrecking Ball,,223250,soundtrack|foreignrap|pop,Bangerz,2013,,Sony,F Major,120,F,USA,42.0,53.0,35.0
+115,1,Black Eyed Peas,Just Can’t Get Enough,,219440,rnb|foreignrap|pop,The Beginning & The Best Of The E.N.D.,2010,,Interscope,C Minor,94,F|M,USA,63.0,66.0,26.0
+116,1,Gym Class Heroes,Cupid's Chokehold / Breakfast in America,Radio Edit,237170,foreignrap,As Cruel as School Children,2006,,Universal Music,D♭ Minor,79,M,USA,74.0,72.0,62.0
+117,1,Britney Spears,Toxic,,200080,pop,The Singles Collection,2009,,JIVE Label Group|RCA,F Minor,143,F,USA,84.0,77.0,92.0
+118,1,Sam Smith,Stay With Me,,172720,electronics|dance|pop,In The Lonely Hour,2015,,Universal Music operations|Capitol,C Major,84,M,GB,42.0,42.0,18.0
+119,1,The Chemical Brothers,Galvanize,,271380,films|dance|electronics,Brotherhood,2008,,Virgin,A♭ Major,104,M,GB,71.0,75.0,37.0
+120,1,The Roots|Erykah Badu|Eve|Tariq Trotter,You Got Me,,259300,rock|rnb|foreignrap|pop,Things Fall Apart,2004,,DGC,B Minor,81,F|M,USA,44.0,73.0,76.0
+121,1,Скриптонит,Животные,,182560,rusrap,Уроборос: Улица 36,2017,,Gazgolder,B♭ Minor,88,M,KZ,80.0,70.0,59.0
+122,1,Radiohead,Daydreaming,,384430,indie,A Moon Shaped Pool,2016,,LLLP|XL,A Minor,138,M,GB,26.0,21.0,11.0
+123,0,Red Hot Chili Peppers,Wet Sand,,309800,rock,The Studio Album Collection 1991-2011,2014,,Warner,E Minor,88,M,USA,75.0,31.0,51.0
+124,0,Red Hot Chili Peppers,Road Trippin',,204960,rock,The Studio Album Collection 1991-2011,2014,,Warner,E Minor,102,M,USA,47.0,38.0,38.0
+125,0,Papa Roach,Last Resort,,200480,electronics|rock|alternative,Infest,2000,,A Geffen Records Release,E Minor,91,M,USA,89.0,59.0,69.0
+126,0,Children Of Bodom,Everytime I Die,,243000,extrememetal,Follow The Reaper,2000,,Universal Music,G Major,104,M,FIN,91.0,43.0,34.0
+127,1,Pink Floyd,Wish You Were Here,Remaster,334740,pop|rock|prog,The Discovery Boxset,2011,,Pink Floyd,G Major,123,M,GB,36.0,48.0,35.0
+128,0,Элджей,360º,,152000,rusrap,360º,2018,single,Universal Music,A♭ Minor,96,M,RUS,72.0,66.0,52.0
+129,0,MORGENSHTERN,Cristal & МОЁТ,,137140,rusrap,Cristal & МОЁТ,2020,single,Zhara Distribution,F Minor,105,M,RUS,37.0,73.0,50.0
+130,1,MARUV,Между нами,,179130,pop|dance|ruspop,Между нами,2019,single,Warner Music Russia,F# Minor,130,F,UA,71.0,84.0,88.0
+131,1,Foster The People,Sit Next to Me,Radio Edit,202600,indie,Sit Next to Me,2017,,Sony,F# Minor,97,M,USA,74.0,64.0,66.0
+132,1,M83,Midnight City,,244010,electronics|films|alternative,"Hurry up, We're Dreaming",2011,,M83|Naïve Records,B Minor,105,M,FR,71.0,53.0,32.0
+133,0,Mylène Farmer,Fuck Them All,Single Edit,274090,soundtrack|pop,Histoires de,2020,,sony Music Entertainment France|Stuffed Monkey,A Major,170,F,FR,88.0,57.0,64.0
+134,0,Иван Дорн,Кричу,,165540,pop,CO'N'DORN,2012,,Первое музыкальное,A Minor,130,M,UA,86.0,73.0,77.0
+135,1,Billie Eilish,bitches broken hearts,,176470,indie,bitches broken hearts,2018,single,Darkroom|Interscope,C Major,120,F,USA,42.0,78.0,19.0
+136,0,Grave Digger,Heart Of Darkness,,716490,classicmetal,Masterpieces,2002,,Gun,A Major,82,M,DE,86.0,20.0,14.0
+137,0,OneRepublic,Everybody Loves Me,,214400,rock|dance|pop,Waking Up,2009,,Mosley|Interscope,E Major,170,M,USA,90.0,57.0,68.0
+138,0,Rich The Kid,Splashin,,177860,pop|foreignrap|dance,The World Is Yours 2,2019,,Interscope,B♭ Major,100,M,USA,38.0,94.0,38.0
+139,0,MØ,Nights With You,,197490,electronics|foreignrap|pop,Nights With You,2017,single,Sony Music Entertainment UK,D♭ Minor,120,F,DK,67.0,76.0,60.0
+140,0,Jennifer Lopez,Love Don't Cost a Thing,,221460,dance|pop|latinfolk,J.Lo,2001,,Sony,E Minor,98,F,USA,84.0,79.0,69.0
+141,0,Marilyn Manson,RED BLACK AND BLUE,,303650,alternative,WE ARE CHAOS,2020,,Marilyn Manson,A Major,129,M,USA,84.0,58.0,28.0
+142,0,Jay-Z|Alicia Keys,Empire State Of Mind,,276920,rnb|foreignrap|pop,The Hits Collection Volume One,2010,,S. Carter Enterprises,B Major,174,F|M,USA,96.0,49.0,81.0
+143,0,Green Day,Basket Case,,181530,rock|punk|alternative,Greatest Hits: God's Favorite Band,2017,,Reprise,E♭ Major,85,M,USA,94.0,44.0,78.0
+144,1,Tom Waits,Christmas Card From A Hooker In Minneapolis,,272980,blues,Blue Valentine,1978,,AnTi|Epitaph,F# Major,112,M,USA,15.0,51.0,20.0
+145,0,BLACKPINK,BOOMBAYAH,,240790,kpop,SQUARE ONE,2016,,YG,F Minor,125,F,KR,84.0,66.0,40.0
+146,1,FEDUK,27,,147220,rusrap,27,2019,single,Первое музыкальное,B Minor,120,M,RUS,56.0,79.0,39.0
+147,1,OK Go,Upside Down & Inside Out,,187860,alternative|rock|pop,Hungry Ghosts,2015,,OK Go|BMG Rights Management (US),C Major,93,M,USA,82.0,56.0,55.0
+148,0,Justin Timberlake,Tunnel Vision,,406640,rnb|foreignrap|pop,The 20/20 Experience,2013,,Sony,E Minor,142,M,USA,77.0,57.0,57.0
+149,1,Элджей,Минимал,,202380,rusrap,Sayonara Boy X,2018,,Universal Music,B♭ Major,110,M,UA,53.0,83.0,55.0
+150,0,ZAYN|Taylor Swift,I Don’t Wanna Live Forever,Soundtrack,245650,foreignrap|dance|pop|country|alternative,reputation Stadium Tour,2017,,Big Machine Label Group,C Major,118,F|M,USA,44.0,73.0,11.0
+151,1,Limp Bizkit,My Generation,,221040,numetal|rock|alternative,Greatest Hitz,2005,,Geffen|Flip,B Major,104,M,USA,98.0,46.0,34.0
+152,1,Beyoncé,Halo,,263310,pop,I AM...SASHA FIERCE - Platinum Edition,2009,,Sony,B Minor,80,F,USA,72.0,51.0,47.0
+153,0,twenty one pilots,Cut My Lip,,282610,indie,Trench,2018,,Fueled By Ramen,E Major,112,M,USA,56.0,64.0,68.0
+154,1,Oxxxymiron,Город под подошвой,,246500,rusrap,Город под подошвой,2015,single,Oxxxymiron,B♭ Minor,90,M,RUS,95.0,56.0,20.0
+155,0,Monoir|Eneli,3 to 1,,219500,pop|house|electronics|dance,3 to 1,2020,single,Warner Music Russia,B Minor,108,F,NA,58.0,90.0,55.0
+156,0,Ленинград,i_$uss,,218830,rusrock,i_$uss,2019,single,ShnurOK / Первое музыкальное,A Minor,102,M,RUS,86.0,69.0,46.0
+157,1,Сёстры|Скриптонит,Высота,,283170,rusrap|ruspop,Высота,2020,single,Musica36,B♭ Major,123,F|M,KZ|USA,43.0,58.0,26.0
+158,0,Алсу,Зимний сон,,260930,ruspop,Алсу,1999,,Sony,C Minor,112,F,RUS,53.0,83.0,69.0
+159,1,Massive Attack,Risingson,,298820,electronics,Singles Collection,1998,single,Virgin,B♭ Minor,164,M,GB,89.0,52.0,30.0
+160,1,Hurts,Ready to Go,,164270,dance|pop,Desire,2017,,Sony Music Entertainment Germany,B♭ Minor,102,M,GB,92.0,63.0,57.0
+161,0,Red Hot Chili Peppers,Go Robot,,263800,rock,The Getaway,2016,,Warner,A♭ Major,131,M,USA,65.0,85.0,96.0
+162,0,twenty one pilots,Semi-Automatic,,253680,indie,Vessel,2013,,Fueled By Ramen,F# Minor,105,M,USA,72.0,78.0,36.0
+163,1,Coldplay,Strawberry Swing,,249660,rock,Viva La Vida - Prospekt's March Edition,2008,,Parlophone,D♭ Major,173,M,GB,66.0,38.0,43.0
+164,0,Eagles,Hotel California,,446560,folkrock|rock|pop,Unplugged 1994 - The Second Night,2017,,RR Live,D Major,147,M,USA,51.0,58.0,61.0
+165,1,Frank Sinatra,Fly Me To The Moon,,151200,pop|holiday|jazz,All Of Me,1964,,The Blue Bridge,G Major,119,M,USA,26.0,67.0,37.0
+166,0,Red Hot Chili Peppers,Havana Affair,Remaster,139380,rock,Rock & Roll Hall of Fame Covers - EP,2012,,Warner,B Minor,76,M,USA,85.0,51.0,85.0
+167,0,Soft Cell,Tainted Love,,156900,electronics|rock|pop,Tainted Love / Where Did Our Love Go,2009,single,Universal International,G Minor,144,M,GB,45.0,54.0,63.0
+168,0,OK Go,Turn up the Radio,,177360,alternative|rock|pop,Hungry Ghosts,2015,,OK Go|BMG Rights Management (US),C Major,151,M,USA,80.0,63.0,66.0
+169,1,Pink Floyd,Money,Remaster,382830,pop|rock|prog,The Discovery Boxset,2011,,Pink Floyd,A Major,124,M,GB,54.0,47.0,78.0
+170,0,Оксана Почепа,Кислотный DJ,,235510,ruspop,Кислотный DJ,2001,,Media Land,D♭ Major,140,F,RUS,77.0,83.0,65.0
+171,1,Eminem,Without Me,,291210,foreignrap,Curtain Call: The Hits,2005,,Aftermath Entertainment|Interscope,G Major,112,M,USA,67.0,91.0,66.0
+172,1,System of A Down,Lonely Day,,167900,numetal|rock|alternative,Hypnotize,2005,,Sony Music Entertainment. With American,A♭ Minor,113,M,USA,80.0,47.0,22.0
+173,1,Coldplay,Talk,,311290,rock,X&Y,2005,,Parlophone,G Minor,120,M,GB,55.0,41.0,16.0
+174,1,Arctic Monkeys,Do I Wanna Know?,,272390,indie,AM,2013,,Союз Мьюзик,F Major,85,M,GB,53.0,55.0,41.0
+175,0,Future|Drake,Life Is Good,,237910,rnb|foreignrap|pop,High Off Life,2020,,Sony Music Entertainment. With Freebandz|Epic,D Minor,142,M,USA,57.0,80.0,54.0
+176,1,Radiohead,Creep,,237380,indie,Pablo Honey,1993,,XL,G Major,92,M,GB,43.0,51.0,10.0
+177,0,Polo G,RAPSTAR,,165920,foreignrap|pop,RAPSTAR,2021,single,Sony,F# Major,81,M,USA,54.0,79.0,44.0
+178,1,Limp Bizkit,Behind Blue Eyes,,269430,numetal|rock|alternative,Greatest Hitz,2005,,Geffen|Flip,G Major,120,M,USA,49.0,60.0,9.0
+179,0,Eminem|Nate Dogg,'Till I Collapse,Soundtrack,297950,rap|foreignrap|dance,The Eminem Show,2002,,Aftermath,D♭ Major,171,M,USA,85.0,55.0,10.0
+180,0,David Guetta|Sia,Titanium,,245050,pop|dance,Nothing But the Beat Ultimate,2012,,What A,C Minor,126,F,USA,79.0,60.0,30.0
+181,1,Ray Charles,Georgia On My Mind,Remaster,217490,rnb|blues|jazz,100,2012,,VCR,E Minor,147,M,USA,29.0,30.0,15.0
+182,1,Nina Simone,Don't Let Me Be Misunderstood,,166460,pop|blues|jazz,Four Women: The Nina Simone Philips Recordings,2003,,A Verve Label Group Release,B Minor,158,F,USA,50.0,39.0,53.0
+183,1,Lenny Kravitz,Fly Away,,221370,rock,Greatest Hits,2000,,Virgin Records America,G Major,160,M,USA,87.0,59.0,74.0
+184,1,twenty one pilots,Migraine,,239010,indie,Vessel,2013,,Fueled By Ramen,C Major,174,M,USA,68.0,69.0,41.0
+185,0,Arch Enemy,War Eternal,,256100,extrememetal,War Eternal,2014,single,Savage Messiah,F Minor,155,M,SWE,98.0,44.0,28.0
+186,0,Bon Jovi,It's My Life,,223360,hardrock|rock|pop,Bon Jovi Greatest Hits - The Ultimate Collection,2010,,An Island Records release,C Minor,120,M,USA,91.0,55.0,54.0
+187,1,Eve|Gwen Stefani,Let Me Blow Ya Mind,,229980,foreignrap|pop|country|holiday|rock,R&B Divas,2007,compilation,Universal Music,A♭ Minor,90,F,USA,56.0,91.0,90.0
+188,0,Gorillaz,The Speak It Mountains,,134780,indie,The Fall,2011,,Parlophone,A Minor,61,M,GB,45.0,44.0,8.0
+189,0,Nina Simone,Ain't Got No / I Got Life,,183300,pop|blues|jazz,My Way,2007,,Stepsis,G Major,115,F,USA,63.0,56.0,69.0
+190,0,Gorillaz|Elton John|6LACK,The Pink Phantom,,253120,rnb|foreignrap|indie|dance|pop|rock|soul,"Song Machine, Season One: Strange Timez",2020,,Under exclusive licence to Parlophone,C Major,64,M,GB|USA,48.0,49.0,49.0
+191,1,Gorillaz,Clint Eastwood,,340130,indie,The Singles Collection 2001-2011,2011,,Parlophone,B♭ Minor,168,M,GB,69.0,66.0,52.0
+192,1,Макс Корж,Жить в кайф,,174340,rusrap,Жить в кайф,2013,,Макс Корж,C Major,127,M,BEL,82.0,76.0,56.0
+193,0,Madonna|Justin Timberlake|Timbaland,4 Minutes,,246210,rnb|foreignrap|dance|pop|rock,Hard Candy,2008,,Warner,D Major,113,F|M,USA|ITL,93.0,75.0,77.0
+194,1,The Prodigy,Breathe,,334060,electronics,Their Law: The Singles 1990-2005,2005,,XL,A Major,130,M,GB,81.0,67.0,30.0
+195,1,Mattafix,Big City Life,,240890,foreignrap|pop,Signs Of A Struggle,2008,,,D Major,174,M,GB,62.0,69.0,73.0
+196,1,Radiohead,Paranoid Android,Remaster,383970,indie,OK Computer OKNOTOK 1997 2017,2017,,XL,F Major,164,M,USA,85.0,25.0,21.0
+197,1,Bruno Mars|Anderson .Paak|Silk Sonic,Leave The Door Open,,242090,rnb|foreignrap|pop|dance|soul,Leave The Door Open,2021,single,Aftermath Entertainment and Atlantic,F Major,148,M,USA,62.0,59.0,72.0
+198,1,twenty one pilots,Car Radio,,267720,indie,Vessel,2013,,Fueled By Ramen,A Minor,130,M,USA,52.0,77.0,61.0
+199,0,Britney Spears,Oops!...I Did It Again,,211690,pop,Greatest Hits: My Prerogative,2004,,Zomba,D♭ Minor,95,F,USA,83.0,75.0,89.0
+200,1,Gorillaz,Every Planet We Reach Is Dead,,295260,indie,Demon Days,2005,,Parlophone,E Minor,88,M,GB,49.0,58.0,37.0
+201,1,Gorillaz,On Melancholy Hill,Radio Edit,208770,indie,The Singles Collection 2001-2011,2011,,Parlophone,D Major,120,M,GB,74.0,69.0,58.0
+202,0,Серёга,Чёрный бумер,,244370,rusrap,The best of...,2004,,Moon,D♭ Major,170,M,BEL,97.0,56.0,69.0
+203,0,Anderson .Paak,Miss Right,,198690,rnb|foreignrap|soul,Venice,2015,,Steel Wool Entertainment,B♭ Minor,96,M,USA,52.0,82.0,71.0
+204,1,Tom Waits,I Don't Wanna Grow Up,,151360,blues,Beautiful Maladies:  The Island Years,1998,,The Island Def Jam,D Major,86,M,USA,63.0,52.0,89.0
+205,1,Radiohead,Knives Out,,255840,indie,Amnesiac,2001,,XL,D Minor,137,M,GB,68.0,43.0,18.0
+206,0,Sabaton,Primo Victoria,,250720,epicmetal,Primo Victoria,2010,,Nuclear Blast,F# Minor,62,M,SWE,75.0,44.0,59.0
+207,1,The White Stripes,Fell in Love with a Girl,,110090,alternative,The White Stripes Greatest Hits,2020,,Jack White and Meg White,A Minor,96,M,USA,98.0,32.0,37.0
+208,1,twenty one pilots,Pet Cheetah,,198360,indie,Trench,2018,,Fueled By Ramen,G Minor,110,M,USA,68.0,65.0,35.0
+209,0,Freddie Gibbs|Madlib,Flat Tummy Tea,,154570,jazz|rnb|foreignrap|electronics,Bandana,2019,,Keep Cool|RCA,A Major,92,M,USA,91.0,56.0,62.0
+210,0,Егор Крид,(Не)идеальна,,158300,ruspop,(Не)идеальна,2021,single,Warner Music Russia,G Major,88,M,RUS,57.0,69.0,25.0
+211,1,Gruppa Skryptonite|104|T-Fest,3x3,,252620,rusrap|dance,3x3,2019,single,Musica36,B♭ Minor,123,M,KZ|UA,68.0,67.0,44.0
+212,1,Red Hot Chili Peppers,Don't Forget Me,,277160,rock,The Studio Album Collection 1991-2011,2014,,Warner,A Minor,124,M,USA,70.0,50.0,36.0
+213,0,Beastie Boys,Sure Shot,Remaster,199560,foreignrap,Ill Communication,1994,,Capitol,D♭ Major,98,M,USA,80.0,69.0,55.0
+214,1,Dua Lipa,Physical,,193820,house|dance|pop,Future Nostalgia,2021,,A Warner Records UK release,C Major,147,F,GB,84.0,65.0,75.0
+215,1,Markul,Серпантин,,186650,rusrap,Great Depression,2018,,MARKUL|FRWRD,B Minor,160,M,RUS|GB,75.0,73.0,42.0
+216,1,twenty one pilots,Nico and the Niners,,225040,indie,Trench,2018,,Fueled By Ramen,A Minor,140,M,USA,60.0,73.0,33.0
+217,1,MONATIK,"То, от чего без ума",,190370,pop,Love It ритм,2019,,Первое музыкальное,D Major,107,M,UA,70.0,87.0,46.0
+218,0,Scorpions,Still Loving You,,403450,hardrock,Born To Touch Your Feelings. Best of Rock Ballads,2017,,Sony Music Entertainment Germany,F# Minor,104,M,USA,61.0,28.0,8.0
+219,0,Coldplay,Ink,,228370,rock,Ghost Stories,2014,,Parlophone,F# Major,112,M,GB,70.0,69.0,70.0
+220,0,Daft Punk,One More Time,Radio Edit,235460,electronics,Musique Vol 1,2006,,Parlophone|Warner Music France|Daft life,D Major,123,M,USA,70.0,61.0,48.0
+221,0,Backstreet Boys,Everybody (Backstreet's Back),Soundtrack,224720,foreignrap|dance|pop,Backstreet's Back,1997,,Zomba,B♭ Minor,108,M,USA,87.0,74.0,59.0
+222,0,Loyle Carner,Stars & Shards,,187660,pop|foreignrap|jazz,Yesterday's Gone,2017,,AMF|Universal Music operations,A Minor,100,M,GB,86.0,81.0,71.0
+223,1,Mac Miller,Circles,,170360,soul|foreignrap|pop,Circles,2020,,Warner,A Major,152,M,USA,3.0,61.0,37.0
+224,1,Coldplay,Charlie Brown,,285160,rock,Mylo Xyloto,2011,,Parlophone,B♭ Major,138,M,GB,74.0,43.0,9.0
+225,1,Eminem,Without Me,Radio Edit,261590,foreignrap,Best Of The Best,2010,compilation,Universal International,G Major,112,M,USA,67.0,91.0,66.0
+226,1,BADBADNOTGOOD|Samuel T. Herring,Time Moves Slow,,273860,alternative|conjazz|electronics,IV,2016,,Innovative Leisure,B Minor,140,M,CA,38.0,62.0,31.0
+227,0,Soda,Pullin Up,,115630,house|pop,Pullin Up,2020,single,Танцевальный рай|Студия СОЮЗ,A♭ Major,110,M,RUS,44.0,95.0,17.0
+228,0,Клава Кока,Мне пох,,158920,ruspop,Неприлично о личном,2019,,Black Star,D♭ Minor,123,F,RUS,80.0,87.0,61.0
+229,0,Bathory,Gods of Thunder of Wind and of Rain,,341700,epicmetal|extrememetal,Blood on Ice,1996,,B.Forsberg|Black Mark,A Major,160,M,SWE,95.0,40.0,25.0
+230,1,MONATIK,LOVE IT ритм,,235310,pop,Love It ритм,2019,,Первое музыкальное,G Major,128,M,UA,59.0,72.0,64.0
+231,1,Billie Eilish,everything i wanted,,245420,indie,everything i wanted,2019,single,Darkroom|Interscope,F# Minor,120,F,USA,22.0,70.0,24.0
+232,1,Major Lazer|Dj Snake|MØ,Lean On,,176560,pop|foreignrap|dance|electronics,Lean On,2015,,Mad Decent,G Minor,98,F|M,DK|USA,81.0,72.0,27.0
+233,0,Pitbull|Christina Aguilera,Feel This Moment,Radio Edit,200050,soundtrack|foreignrap|pop|dance,Pure... Dance Party,2014,compilation,Sony,G Major,136,F|M,USA,76.0,67.0,54.0
+234,0,Týr,Hold the Heathen Hammer High,,289330,folkmetal,By the Light of the Northern Star,2013,,Napalm Records Handels,G Major,104,M,DK,97.0,47.0,31.0
+235,1,twenty one pilots,We Don't Believe What's on TV,,177200,indie,Blurryface,2015,,Fueled By Ramen,A Major,120,M,USA,94.0,55.0,64.0
+236,0,twenty one pilots,Not Today,,238040,indie,Blurryface,2015,,Fueled By Ramen,D Major,115,M,USA,71.0,77.0,53.0
+237,0,Moonspell,Alma Mater,,337300,metal|epicmetal|extrememetal,Wolfheart,2012,,The Century Family,A Minor,143,M,POR,87.0,23.0,31.0
+238,1,"Tyler, The Creator",IGOR'S THEME,,200690,rnb|foreignrap|pop,IGOR,2019,,Sony,B♭ Minor,163,M,USA,67.0,47.0,6.0
+239,0,50 Cent|Justin Timberlake|Timbaland,Ayo Technology,,248580,rnb|foreignrap|pop|dance,Curtis,2007,,Shady Records|Interscope|Aftermath,A♭ Minor,140,M,USA,78.0,63.0,42.0
+240,0,Oasis,Fuckin' In the Bushes,,198820,rock,Standing on the Shoulder of Giants,2000,,Big Brother,A Minor,100,M,GB,82.0,15.0,34.0
+241,0,Coldplay,Hymn For The Weekend,,258260,rock,A Head Full of Dreams,2015,,Parlophone,C Minor,90,M,GB,69.0,49.0,41.0
+242,1,Manizha,RUSSIAN WOMAN,,176870,films|pop|ruspop,RUSSIAN WOMAN,2021,single,Manizha Sanghin,E Minor,102,F,RUS,70.0,89.0,65.0
+243,1,Hippie Sabotage,Devil Eyes,,131270,pop|foreignrap|electronics,Providence,2016,,iHipHop Distribution,D♭ Minor,99,M,USA,40.0,39.0,20.0
+244,0,Pitbull|Marc Anthony,Rain Over Me,,231570,foreignrap|pop|dance|latinfolk|folk,Greatest Hits,2017,,Sony,C Major,128,M,USA,91.0,61.0,29.0
+245,1,Teriyaki Boyz,Tokyo Drift (Fast & Furious),Soundtrack,255940,foreignrap,Tokyo Drift (Fast & Furious),2006,single,Universal Music,F# Major,127,F|M,JP,89.0,76.0,94.0
+246,1,Bob Marley,No Woman No Cry,,445380,reggae|ska|dance,"The Complete Concert at Oakland Auditorium, Ca. Nov 30th, 1979",1974,,Doxy,D♭ Major,78,M,JM,68.0,65.0,59.0
+247,1,The Rolling Stones,Living In A Ghost Town,,247010,rnr|rock|blues,Honk,2019,,Promotone,E Minor,111,M,GB,70.0,68.0,78.0
+248,0,Татьяна Буланова,Ясный мой свет,,206800,rusestrada,Физрук. Новый сезон (Музыка к сериалу) [Переиздание],2016,compilation,Первое музыкальное|ТНТ-Телесеть,G Minor,128,F,RUS,90.0,76.0,98.0
+249,0,twenty one pilots,Fake You Out,,231320,indie,Vessel,2013,,Fueled By Ramen,F# Major,115,M,USA,61.0,84.0,73.0
+250,0,Martin Solveig|Dragonette,Hello,Radio Edit,191620,dance|electronics|pop|pop|dance|electronics,,2010,single,,E♭ Major,128,M,CA|SWE,98.0,67.0,45.0
+251,1,Arctic Monkeys,Why'd You Only Call Me When You're High?,,161120,indie,AM,2013,,Союз Мьюзик,D Major,92,M,GB,63.0,69.0,80.0
+252,1,The Black Keys,Lonely Boy,,193650,rock|blues|alternative,El Camino,2011,,Nonesuch,D Major,166,M,USA,87.0,36.0,61.0
+253,1,Coldplay,Orphans,,197530,rock,Orphans / Arabesque,2019,single,Parlophone UK,B Minor,108,M,GB,81.0,50.0,28.0
+254,1,Bob Dylan,Knockin' On Heaven's Door,,149960,foreignbard,The Essential,2014,,Sony,G Major,140,M,USA,40.0,51.0,23.0
+255,1,Pharrell Williams,Freedom,Soundtrack,162460,foreignrap|pop|dance,Freedom,2015,single,Sony,D♭ Minor,86,M,USA,56.0,43.0,61.0
+256,1,Marilyn Manson,This Is the New Shit,Soundtrack,260210,alternative,Lest We Forget: The Best Of,2004,,Interscope,D Major,89,M,USA,87.0,56.0,62.0
+257,0,Pitbull|T-Pain,Hey Baby (Drop It to the Floor),Radio Edit,204880,rnb|foreignrap|pop|dance,Hey Baby (Drop It To The Floor),2010,single,J Records,B♭ Minor,128,M,USA,91.0,60.0,76.0
+258,1,Элджей|Era Istrefi,Sayonara детка,,164860,house|rusrap|dance,Sayonara детка,2019,single,Effective Records,F# Minor,145,M,RUS,48.0,86.0,75.0
+259,0,Ying Yang Twins|Lil Jon & The East Side Boyz,Get Low,,334060,electronics|foreignrap|dance,Kings of Crunk,2002,,The Orchard,B Major,102,M,USA,70.0,88.0,31.0
+260,1,Jack White,Love Is Blindness,,198610,indie|rock|alternative,Sixteen Saltines,2020,,Third Man|Sony,B♭ Minor,49,M,USA,74.0,27.0,50.0
+261,0,Элджей|MORGENSHTERN,Lollipop,,173570,rusrap,Lollipop,2020,single,Effective Records,A Minor,135,M,RUS,75.0,82.0,66.0
+262,1,John Lennon,Imagine,,182520,rock,GIMME SOME TRUTH.,2020,,Lenono,C Major,76,M,GB,34.0,58.0,14.0
+263,1,Rihanna,Don't Stop The Music,,267080,rnb|dance|pop,Good Girl Gone Bad: Reloaded,2008,,The Island Def Jam,F# Minor,123,F,BAR,67.0,83.0,54.0
+264,1,Nina Simone,I Put A Spell On You,Soundtrack,156320,pop|blues|jazz,Four Women: The Nina Simone Philips Recordings,2003,,A Verve Label Group Release,F# Minor,89,F,USA,40.0,42.0,36.0
+265,1,Limp Bizkit,Gold Cobra,,233530,numetal|rock|alternative,Gold Cobra,2011,,Interscope|Flip,F# Major,174,M,USA,98.0,46.0,66.0
+266,1,Red Hot Chili Peppers,By the Way,,216930,rock,By the Way,2002,,Warner,C Major,122,M,USA,97.0,45.0,20.0
+267,0,Miley Cyrus,Mother's Daughter,,219080,soundtrack|foreignrap|pop,SHE IS COMING,2019,,Sony,D♭ Minor,91,F,USA,87.0,68.0,53.0
+268,0,Fall Out Boy,Centuries,,228760,alternative,Believers Never Die,2019,,Island|Universal Music,E Minor,88,M,USA,86.0,39.0,56.0
+269,1,Panic! At The Disco,Emperor's New Clothes,,158660,rock,Death of a Bachelor,2016,,Fueled By Ramen,D♭ Major,94,M,USA,90.0,56.0,65.0
+270,0,The Smiths,How Soon Is Now?,,406170,rock|alternative,Meat Is Murder,2005,,Warner Strategic Marketing,B Major,95,M,GB,93.0,40.0,73.0
+271,1,Монеточка,Нимфоманка,,160880,local-indie,Раскраски для взрослых,2018,,М2,B Minor,110,F,RUS,40.0,89.0,53.0
+272,1,Tove Lo|Hippie Sabotage,Habits (Stay High),Remix,258930,electronics|foreignrap|pop,Queen Of The Clouds,2015,,Universal Music,E Minor,121,F,USA,69.0,74.0,7.0
+273,1,Justin Timberlake,What Goes Around...Comes Around,Radio Edit,311320,rnb|foreignrap|pop,What Goes Around...Comes Around,2007,,Zomba,G Major,76,M,USA,2.0,69.0,43.0
+274,1,Kaiser Chiefs,Ruby,,202710,indie,Souvenir : The Singles 2004 - 2012,2012,,B-Unique,F Minor,93,M,GB,93.0,44.0,40.0
+275,1,twenty one pilots,Stressed Out,,202330,indie,Blurryface,2015,,Fueled By Ramen,E Minor,170,M,USA,64.0,73.0,65.0
+276,1,Ленинград,WWW,,167220,rusrock,Пираты XXI века,2002,,ShnurOK / Первое музыкальное,C Minor,141,M,RUS,80.0,74.0,96.0
+277,1,Tove Lo,Cool Girl,,199170,pop,Lady Wood,2016,,Universal Music,A Minor,102,F,SWE,69.0,67.0,20.0
+278,1,MØ|Diplo,Sun In Our Eyes,,217930,electronics|foreignrap|pop|dance,Forever Neverland,2018,,Sony Music Entertainment UK,E Minor,126,F,DK,83.0,76.0,39.0
+279,1,Katy Perry,I Kissed A Girl,,179640,holiday|dance|pop,One Of The Boys,2008,,Capitol,F Major,130,F,USA,76.0,70.0,70.0
+280,0,Tears For Fears,Shout,Single Edit,246880,rock,Songs From The Big Chair,2014,,Mercury,C Major,98,M,GB,94.0,51.0,50.0
+281,1,Louis Armstrong,La vie en rose,,205970,pop|tradjazz|jazz,The Best Of The Decca Years Volume One: The Singer,1989,,Universal Music,C Major,71,M,USA,8.0,51.0,33.0
+282,0,MONATIK|Вера Брежнева,ВЕЧЕРиНОЧКА,,238950,pop|ruspop,V.,2020,,Meladze Music|Первое музыкальное,D♭ Major,115,F|M,UA,61.0,62.0,57.0
+283,0,Alice Merton,Jealousy,,219640,pop,No Roots,2017,,Paper Plane Records Int,E♭ Minor,130,F,DE,55.0,64.0,28.0
+284,0,The Turtles,Happy Together,Soundtrack,174580,japanesepop|rock|dance,Save the Turtles: the Turtles Greatest Hits,2009,,FloEdCo,F# Minor,120,M,USA,37.0,58.0,59.0
+285,0,The Cardigans,My Favourite Game,,217130,rock|pop,Best Of,2008,,Universal Music,F Minor,143,F,SWE,78.0,59.0,42.0
+286,1,Dr. Dre|Snoop Dogg,The Next Episode,,162800,rnb|foreignrap|pop,2001,1999,,Aftermath Entertainment|Interscope,B♭ Minor,95,M,USA,91.0,92.0,31.0
+287,0,Daft Punk,Harder Better Faster Stronger,,224290,electronics,Musique Vol 1,2006,,Parlophone|Warner Music France|Daft life,F# Minor,123,M,FR,72.0,82.0,69.0
+288,0,Lady Gaga|Colby O'Donis,Just Dance,,244050,rnb|soul|pop,The Fame Monster,2009,,Interscope,D♭ Minor,119,F|M,USA,74.0,82.0,75.0
+289,1,Найк Борзов,Лошадка,Radio Edit,304000,rusrock,Молекула,2016,,Universal Music,C Major,120,M,RUS,72.0,70.0,65.0
+290,1,Paul McCartney,Hope Of Deliverance,,201840,rock,Off the Ground,1993,,LTD|Mpl Communications,A Minor,160,M,GB,79.0,64.0,81.0
+291,1,twenty one pilots,Holding on to You,,263730,indie,Vessel,2013,,Fueled By Ramen,B Major,90,M,USA,78.0,61.0,81.0
+292,1,Alina Pash,N.U.M.,,173870,house|foreignrap|pop,Amerikraine Dream,2020,,Bitanga Blood,D♭ Major,114,F,UA,91.0,70.0,41.0
+293,0,Marilyn Manson,Rock Is Dead,Soundtrack,189760,alternative,Lest We Forget: The Best Of,2004,,Interscope,B Minor,101,M,USA,91.0,51.0,36.0
+294,0,Pendulum,Crush,Radio Edit,202560,dance|electronics|dnb,Crush,2011,single,Warner Music UK,D Major,174,M,AU,91.0,42.0,16.0
+295,1,Black Eyed Peas,Where Is The Love?,,273840,rnb|foreignrap|pop,Elephunk,2003,,Interscope Geffen (A&M)|Universal Music,F Major,94,M,USA,70.0,83.0,80.0
+296,1,Mark Ronson|Bruno Mars,Uptown Funk,,270040,foreignrap|dance|pop,Uptown Special,2015,,Columbia,C Major,115,M,USA,61.0,86.0,93.0
+297,1,twenty one pilots,Christmas Saves The Year,,212400,indie,Christmas Saves The Year,2020,single,Fueled By Ramen,C Major,82,M,USA,38.0,66.0,39.0
+298,1,twenty one pilots,Jumpsuit,,238560,indie,Trench,2018,,Fueled By Ramen,B Minor,127,M,USA,61.0,62.0,23.0
+299,1,Mac Miller,Goosebumpz,,202420,soul|foreignrap|pop,Watching Movies With The Sound Off,2013,,Rostrum,A Major,144,M,USA,80.0,67.0,60.0
+300,1,twenty one pilots,Doubt,,191490,indie,Blurryface,2015,,Fueled By Ramen,D Minor,123,M,USA,64.0,72.0,69.0
+301,1,P!nk,Get the Party Started,Soundtrack,194740,films|foreignrap|pop,Greatest Hits...So Far!!!,2010,,LaFace,B Minor,129,F,USA,90.0,80.0,96.0
+302,0,Блестящие,А я всё летала,,235530,ruspop,За четыре моря,2002,,GRO studio,D♭ Minor,120,F,RUS,88.0,74.0,77.0
+303,0,Alice Merton,Lash Out,,194520,pop,Mint +4,2019,,Paper Plane Records International,A Minor,128,F,DE,77.0,74.0,90.0
+304,0,Drake,Toosie Slide,,247050,foreignrap,Dark Lane Demo Tapes,2020,,OvO,C# Minor,82,M,USA,45.0,83.0,45.0
+305,1,Coldplay,Christmas Lights,,242490,rock,Christmas Lights,2010,single,Parlophone,G Major,131,M,GB,42.0,31.0,24.0
+306,0,Markul,Скалы,,148800,rusrap,Скалы,2019,single,FRWRD,A♭ Major,110,M,RUS,85.0,66.0,31.0
+307,1,Tame Impala,"New Person, Same Old Mistakes",,363240,indie|rock|alternative,Currents,2015,,Modular,A♭ Major,152,M,AU,81.0,47.0,49.0
+308,0,Evanescence,Bring Me To Life,,237290,rock|alternative,Fallen,2003,,The Bicycle Music Company,E Minor,95,F,USA,94.0,33.0,30.0
+309,1,Coldplay,Paradise,,277600,rock,Mylo Xyloto,2011,,Parlophone,F Major,140,M,GB,58.0,45.0,21.0
+310,0,Nirvana,Lithium,,257050,rock|alternative,Nirvana,2002,,A Geffen Records Release,G Major,123,M,USA,66.0,68.0,49.0
+311,0,DMX,Party Up,,272920,foreignrap,The Best Of DMX,2010,,Universal Music,B Major,101,M,USA,93.0,51.0,53.0
+312,1,БАНД'ЭРОС,Коламбия Пикчерз не представляет,,266550,ruspop,Коламбия Пикчерз не представляет (Новое издание),2008,,Velvet Music,D♭ Minor,117,F|M,RUS,81.0,64.0,77.0
+313,0,Gorillaz,Sorcererz,,180370,indie,The Now Now,2018,,Parlophone,A Minor,84,M,GB,87.0,58.0,82.0
+314,0,Christina Aguilera,Hurt,,241720,soundtrack|dance|pop,Keeps Gettin' Better: A Decade of Hits,2008,,Sony,E Minor,149,F,USA,29.0,33.0,14.0
+315,1,Stevie Wonder,Superstition,,244820,pop,The Definitive Collection,1972,,A Motown Records Release,D♭ Major,101,M,USA,58.0,61.0,88.0
+316,1,Gorillaz,Feel Good Inc.,,221160,indie,Demon Days,2005,,Parlophone,F# Major,139,M,GB,70.0,82.0,77.0
+317,1,Nina Simone,I Wish I Knew How It Would Feel to Be Free,,188620,pop|blues|jazz,Silk & Soul,2006,,Originally Recorded,B♭ Major,122,F,USA,51.0,69.0,67.0
+318,1,Coldplay,Clocks,,307460,rock,A Rush Of Blood To The Head,2002,,Parlophone,F Minor,131,M,GB,75.0,58.0,25.0
+319,1,Theophilus London|Tame Impala,Only You,,215440,foreignrap|indie|pop|alternative|rock,Bebey,2020,,my bebey|Independent,A Minor,118,M,AU|TR,83.0,74.0,46.0
+320,1,The Weeknd,Blinding Lights,,200040,rnb|foreignrap|pop,The Highlights,2021,,The Weeknd XO,D♭ Major,171,M,GB,73.0,51.0,33.0
+321,0,Markul,Худший друг,,183390,rusrap,Great Depression,2018,,MARKUL|FRWRD,B Minor,110,M,RUS,81.0,71.0,29.0
+322,1,Black Eyed Peas|J. Balvin,RITMO,Soundtrack,214850,rnb|foreignrap|dance|pop|latinfolk,TRANSLATION,2020,,BEP,B♭ Minor,105,F|M,USA,72.0,72.0,67.0
+323,1,Oxxxymiron|Markul,Fata Morgana,,183090,rusrap,Fata Morgana,2017,single,Oxxxymiron,D Major,97,M,RUS,63.0,72.0,13.0
+324,1,Green Day,Holiday,,233060,rock|punk|alternative,Holiday,2005,single,Reprise,A♭ Major,147,M,USA,89.0,55.0,72.0
+325,0,A$AP Rocky|Drake|2 Chainz|Kendrick Lamar,F**kin' Problems,Soundtrack,233780,rnb|foreignrap|pop,LONG.LIVE.A$AP,2013,,A$AP Rocky|Polo Grounds|RCA,D♭ Major,96,M,USA,69.0,85.0,66.0
+326,0,MONATIK,СИЛЬНО,,179380,pop,Love It ритм,2019,,Первое музыкальное,E Minor,130,M,UA,26.0,65.0,45.0
+327,0,Bob Marley,Three Little Birds,,180340,reggae|ska|dance,Legend,1984,,An Island Records release,A Major,148,M,JM,48.0,81.0,62.0
+328,1,The Prodigy,Voodoo People,Remaster,387110,electronics,More Music for the Jilted Generation,2008,,XL,F# Minor,149,M,GB,100.0,66.0,37.0
+329,0,Lady Gaga|Beyoncé,Telephone,,221840,pop,The Fame Monster,2009,,An Interscope Records release,F Minor,122,F,USA,83.0,82.0,71.0
+330,0,Bob Marley,Is This Love,,230800,reggae|ska|dance,Legend,1984,,An Island Records release,F# Minor,122,M,JM,56.0,78.0,76.0
+331,1,Скриптонит,Это любовь,,279250,rusrap,Дом с нормальными явлениями,2015,,Gazgolder,C Minor,140,M,KZ,42.0,36.0,13.0
+332,1,Radiohead,Creep,,237380,indie,Pablo Honey,1993,,XL,G Major,92,M,GB,43.0,51.0,10.0
+333,1,Gorillaz|Popcaan,Saturnz Barz,,181900,indie|reggaeton|reggae|foreignrap,Humanz,2017,,Parlophone,F# Minor,80,M,GB,62.0,38.0,21.0
+334,0,Ленинград,Ч.П.Х.,,192960,rusrock,Ч.П.Х.,2017,single,ShnurOK / Первое музыкальное,D Major,117,M,RUS,80.0,83.0,79.0
+335,0,Maroon 5|Kendrick Lamar,Don't Wanna Know,,214260,rock|foreignrap|pop,Red Pill Blues,2018,,A 222|Interscope Records Release,G Major,100,M,USA,61.0,78.0,42.0
+336,0,Hulkoff,Kvenland Will Rise Again,,300720,industrial,Kven,2018,,Союз Мьюзик,E Major,88,M,SWE,94.0,42.0,18.0
+337,0,Rihanna|Calvin Harris,We Found Love,,215220,rnb|dance|pop,Talk That Talk,2011,,The Island Def Jam,D♭ Major,128,F,BAR,77.0,73.0,60.0
+338,1,Beyoncé|Jay-Z,Crazy In Love,,236120,foreignrap|pop,Dangerously In Love,2003,,Sony,D Minor,99,F|M,USA,77.0,65.0,68.0
+339,1,Miyagi & Эндшпиль|Рем Дигга,I Got Love,,276690,rusrap,I Got Love,2017,single,Gamma Music,F Major,106,M,RUS,87.0,67.0,23.0
+340,1,Marilyn Manson,The Nobodies,,215220,alternative,Lest We Forget: The Best Of,2004,,Interscope,E Major,150,M,USA,82.0,43.0,27.0
+341,1,Gorillaz|Fatoumata Diawara,Désolé,,236560,indie|folk|dance|electronics,Song Machine Episode 2,2020,,Gorillaz Partnership|Parlophone,E Minor,136,F|M,GB,69.0,73.0,86.0
+342,0,The Notorious B.I.G.|Bob Marley,Hold Ya Head,,165740,rnb|foreignrap|ska|dance|reggae,Duets: The Final Chapter,2005,,Bad Boy,F Major,80,M,USA|JM,56.0,72.0,29.0
+343,0,Duran Duran,Come Undone,,278730,alternative|rock|pop,Duran Duran (The Wedding Album),1993,,Parlophone,A♭ Major,174,M,GB,79.0,54.0,71.0
+344,1,Arctic Monkeys,Old Yellow Bricks,,193220,indie,Favourite Worst Nightmare,2007,,Domino,C Major,135,M,GB,84.0,66.0,75.0
+345,0,Little Big,I'm OK,,187010,dance,I'm OK,2019,single,Warner Music Russia,F Minor,124,M,RUS,62.0,96.0,85.0
+346,0,MARUV|Boosin,I Want You,,175980,pop|dance|ruspop,I Want You,2020,single,Warner Music Russia,G Major,122,F|M,UA,76.0,78.0,83.0
+347,1,The White Stripes,The Hardest Button to Button,,215290,alternative,The White Stripes Greatest Hits,2020,,Jack White and Meg White,E Minor,128,M,USA,51.0,69.0,55.0
+348,1,twenty one pilots,Lane Boy,,253090,indie,Blurryface,2015,,Fueled By Ramen,G Major,160,M,USA,81.0,62.0,91.0
+349,1,MONATIK|Надя Дорофеева,Глубоко...,,251880,pop,Love It ритм,2019,,Первое музыкальное,B♭ Minor,125,F|M,UA,67.0,81.0,71.0
+350,1,Nickelback,How You Remind Me,,224600,rock|alternative,"The Best of Nickelback, Vol. 1",2013,,Roadrunner Records,B♭ Major,172,M,USA,76.0,45.0,54.0
+351,1,Tom Waits,Blue Valentine,,350230,blues,Blue Valentine,1978,,AnTi|Epitaph,A Major,136,M,USA,4.0,47.0,15.0
+352,1,Иван Дорн,Стыцамэн,,232780,pop,CO'N'DORN,2012,,Первое музыкальное,D♭ Minor,115,M,UA,80.0,78.0,87.0
+353,1,twenty one pilots,The Run and Go,,229000,indie,Vessel,2013,,Fueled By Ramen,B♭ Minor,92,M,USA,32.0,80.0,43.0
+354,0,Billie Eilish,Your Power,,245890,indie,Your Power,2021,single,Darkroom|Interscope,A Minor,130,F,USA,28.0,63.0,20.0
+355,0,Taylor Swift,Blank Space,,231820,alternative|country|pop,1989,2014,,Big Machine,F Major,96,F,USA,68.0,75.0,58.0
+356,1,The White Stripes,Seven Nation Army,,231920,alternative,PAY CLOSE ATTENTION: XL Recordings,2014,compilation,XL,C Major,124,M,USA,46.0,73.0,32.0
+357,0,Red Hot Chili Peppers,The Getaway,,250380,rock,The Getaway,2016,,Warner,C Major,114,M,USA,64.0,80.0,67.0
+358,0,Lil Nas X,Old Town Road,,113000,alternative|foreignrap|pop,7 EP,2019,,Sony,F# Major,136,M,USA,62.0,88.0,64.0
+359,1,Justin Timberlake|Timbaland,SexyBack,,244730,rnb|foreignrap|pop|dance,FutureSex/LoveSounds,2006,,Zomba,G Minor,117,M,USA,58.0,97.0,96.0
+360,1,Travis Scott|Kendrick Lamar,goosebumps,,246020,foreignrap|pop|dance,Birds In The Trap Sing McKnight,2016,,Sony,G Major,130,M,USA,63.0,85.0,47.0
+361,1,Frank Sinatra,Blue Hawaii,Remaster,161540,pop|holiday|jazz,Come Fly with Me,1998,,J. Joes J. Edizioni Musicali,A♭ Major,91,M,USA,14.0,21.0,15.0
+362,1,Bee Gees,Stayin' Alive,,285370,foreignbard|rock|pop,The Ultimate Bee Gees,2009,,Barry Gibb,B♭ Minor,104,M,GB,77.0,70.0,95.0
+363,1,twenty one pilots,The Judge,,297760,indie,Blurryface,2015,,Fueled By Ramen,C Major,83,M,USA,80.0,42.0,59.0
+364,1,Post Malone|21 Savage,rockstar,,218140,alternative|foreignrap|dance,beerbongs & bentleys,2018,,Universal Music,F Minor,160,M,USA,52.0,45.0,12.0
+365,1,System of A Down,Toxicity,,218930,numetal|rock|alternative,Toxicity,2001,,Sony Music Entertainment. With American,A♭ Major,117,M,USA,87.0,41.0,48.0
+366,0,Thomas Mraz,Rolling Stoner,,183650,rusrap,May 13,2017,,Sounds Good Lab,E Minor,115,M,RUS,55.0,75.0,24.0
+367,1,Скриптонит,Чистый,Soundtrack,193740,rusrap,Чистый,2020,single,Musica36,D♭ Minor,78,M,KZ,44.0,57.0,14.0
+368,0,Kanye West|Dwele,Flashing Lights,,237900,rnb|foreignrap|pop,Graduation,2007,,A Roc-A-Fella Records release,F# Minor,90,M,USA,63.0,64.0,43.0
+369,1,Portugal. The Man,Feel It Still,,162090,indie|dance|alternative,Woodstock,2017,,Atlantic,D♭ Minor,79,M,USA,80.0,80.0,75.0
+370,0,Arctic Monkeys,Crying Lightning,,224820,indie,Humbug,2009,,Domino,E Minor,107,M,GB,88.0,50.0,67.0
+371,0,FEDUK,Бэнгер,,184460,rusrap,ЙАЙ,2020,,Warner Music Russia,C Minor,122,M,RUS,58.0,78.0,19.0
+372,0,Nirvana,Smells Like Teen Spirit,,301920,rock|alternative,Nirvana,2002,,A Geffen Records Release,D♭ Major,117,M,USA,91.0,50.0,72.0
+373,1,THE CARTERS,APESHIT,,264850,foreignrap,EVERYTHING IS LOVE,2018,,Parkwood Entertainment,D Major,160,F|M,USA,78.0,70.0,38.0
+374,1,BLACKPINK,How You Like That,,180980,kpop,THE ALBUM,2020,,YG Entertainment,B Major,130,F,KR,76.0,81.0,34.0
+375,1,Oasis,Stop Crying Your Heart Out,,302100,rock,Heathen Chemistry,2002,,Big Brother,D Major,150,M,GB,56.0,33.0,10.0
+376,0,The Rolling Stones,(I Can't Get No) Satisfaction,,224400,rnr|rock|blues,Big Hits (High Tide and Green Grass),2006,,Revolver,D Major,136,M,GB,86.0,72.0,93.0
+377,0,Foals,Mountain at My Gates,,244290,indie,What Went Down,2015,,Warner Music UK,D Minor,104,M,GB,93.0,50.0,62.0
+378,0,Therion,Son of the Staves of Time,,287700,epicmetal,Gothic Kabbalah,2007,,Solturn Trading and Marketing,B♭ Major,96,M,SWE,93.0,39.0,19.0
+379,0,Avril Lavigne,Girlfriend,Radio Edit,216370,alternative,Girlfriend EP,2007,single,Sony,G Major,164,F,USA,96.0,56.0,67.0
+380,1,Red Hot Chili Peppers,Under the Bridge,,265500,rock,The Studio Album Collection 1991-2011,2014,,Warner,E Major,85,M,USA,34.0,56.0,46.0
+381,1,Robbie Williams,Supreme,,258400,pop,Sing When You're Winning,2000,,Chrysalis,F Major,96,M,GB,86.0,56.0,76.0
+382,1,Panic! At The Disco,The Greatest Show,,174300,rock,The Greatest Show,2018,single,Atlantic,F# Minor,77,M,USA,84.0,55.0,49.0
+383,1,Black Eyed Peas,Let's Get It Started,,219040,rnb|foreignrap|pop,Песни для машины,2020,compilation,FP,D Major,105,F|M,USA,77.0,73.0,77.0
+384,1,Gorillaz|Slaves|slowthai,Momentary Bliss,,221380,indie|foreignrap|punk|electronics,"Song Machine, Season One: Strange Timez",2020,,Under exclusive licence to Parlophone,A Major,158,M,GB,81.0,64.0,71.0
+385,0,Zivert,Credo,,184170,ruspop,Vinyl #1. Deluxe Version,2019,,Первое музыкальное,A Minor,115,F,RUS,77.0,85.0,53.0
+386,0,Gorillaz|Leee John,The Lost Chord,,243610,indie|house|dance|pop,"Song Machine, Season One: Strange Timez",2020,,Under exclusive licence to Parlophone,F# Minor,83,M,GB,76.0,24.0,42.0
+387,1,Maroon 5,This Love,,205790,rock|foreignrap|pop,Songs About Jane: 10th Anniversary Edition,2012,,Octone|A&M,F Minor,95,M,USA,87.0,71.0,76.0
+388,0,Fleetwood Mac,The Chain,Remaster,269810,rock|blues|pop,Rumours,1977,,Warner,A Major,152,M,USA|GB,67.0,55.0,48.0
+389,0,Дима Билан,Молния,,181510,ruspop,Молния,2018,single,Archer,A Minor,119,M,RUS,68.0,94.0,64.0
+390,0,Унесённые ветром,Какао,,235050,rusestrada,Том 2,2014,,Digital Project,F Major,120,F|M,RUS,83.0,87.0,96.0
+391,0,Скриптонит|104|T-Fest|Niman,Мультибрендовый,,272140,rusrap,Мультибрендовый,2018,single,Скриптонит,E Minor,158,M,KZ|UA,87.0,76.0,73.0
+392,1,Nina Simone,Feeling Good,Remaster,177110,pop|blues|jazz,Mid Century Music For Mad-Men: Lounge Relaxey-Voo!,2020,compilation,RevOla,G Minor,79,F,USA,33.0,40.0,55.0
+393,1,Drake,Hotline Bling,,267060,foreignrap,Views,2016,,Cash Money|Young Money Entertainment,D Major,135,M,USA,63.0,89.0,55.0
+394,0,Eminem,Lose Yourself,Soundtrack,326460,foreignrap,Curtain Call: The Hits,2005,,Aftermath Entertainment|Interscope,D Major,171,M,USA,74.0,69.0,6.0
+395,0,System of A Down,Aerials,,235050,numetal|rock|alternative,Toxicity,2001,,Sony Music Entertainment. With American,C Minor,81,M,USA,92.0,40.0,25.0
+396,1,Coldplay,The Scientist,,309160,rock,A Rush Of Blood To The Head,2002,,Parlophone,F Major,146,M,GB,44.0,56.0,21.0
+397,1,Justin Timberlake|Jay-Z,Suit & Tie,,326280,rnb|foreignrap|pop,The 20/20 Experience,2013,,Sony,B Minor,102,M,USA,60.0,80.0,36.0
+398,0,Dream Evil,The Book Of Heavy Metal (march Of Metallians),,325800,classicmetal,The Book Of Heavy Metal,2004,,Century Media,C Major,154,M,SWE,94.0,39.0,37.0
+399,0,Rich The Kid,Plug Walk,,175220,pop|foreignrap|dance,The World Is Yours,2018,,Interscope,B Major,95,M,USA,52.0,88.0,16.0
+400,1,Limp Bizkit,Faith,,146750,numetal|rock|alternative,Greatest Hitz,2005,,Geffen|Flip,D♭ Minor,93,M,USA,78.0,43.0,71.0
+401,1,Justin Timberlake,Can't Stop The Feeling!,Soundtrack,237230,rnb|foreignrap|pop,Can't Stop The Feeling!,2016,single,DreamWorks Animation|RCA,C Major,113,M,USA,83.0,67.0,70.0
+402,1,Post Malone,Wow.,,149540,alternative|foreignrap|dance,Hollywood's Bleeding,2019,,Universal Music,B Minor,100,M,USA,54.0,83.0,39.0
+403,1,MONATIK,Vitamin D,,209000,pop,Love It ритм,2019,,Первое музыкальное,C Major,120,M,UA,55.0,89.0,55.0
+404,1,Rejjie Snow|Joey Bada$$|Jesse Boykins III,PURPLE TUESDAY,,290330,foreignrap|pop|dance|soul|electronics,The Moon & You,2017,,BMG Rights Management (UK)|300 Entertainment,D♭ Major,84,M,USA,46.0,68.0,72.0
+405,0,Eminem,Sing For The Moment,,340320,foreignrap,The Eminem Show,2002,,Aftermath,F Minor,164,M,USA,82.0,67.0,19.0
+406,0,Nocturnal Rites,Fools Never Die,,234520,extrememetal,Grand Illusion,2006,,Century Media,C Minor,108,M,SWE,71.0,42.0,26.0
+407,0,Gunna|Young Thug|Young Stoner Life|Drake,Solid,,215690,pop|rnb|foreignrap|dance,Slime Language 2,2021,,300 Entertainment|Young Stoner Life,B Minor,126,M,USA,49.0,89.0,33.0
+408,1,DJ Shadow|Run the Jewels,Nobody Speak,Soundtrack,195960,alternative|rap|foreignrap|electronics,The Mountain Will Fall,2016,,Reconstruction|Mass Appeal,D Major,160,M,USA,81.0,62.0,30.0
+409,0,Eminem|Dido,Stan,,404100,electronics|foreignrap|pop|dance,Curtain Call: The Hits,2005,,Aftermath Entertainment|Interscope,F# Minor,80,M,USA,77.0,78.0,51.0
+410,0,Dabro,Юность,,219740,ruspop,Юность,2020,single,Make It Music,F Minor,124,M,RUS,68.0,81.0,57.0
+411,1,Tricky,Hell Is Round The Corner,,228570,experimental,Maxinquaye,2009,,Universal-Island,C Major,120,M,GB,54.0,57.0,51.0
+412,1,Green Day,American Idiot,,174320,rock|punk|alternative,Greatest Hits: God's Favorite Band,2017,,Reprise,D♭ Major,93,M,USA,99.0,38.0,77.0
+413,0,Tom Waits,Hoist That Rag,,248280,blues,Real Gone,2004,,AnTi,A Minor,104,M,USA,83.0,41.0,67.0
+414,0,Jamiroquai,Cosmic Girl,Remaster,227860,pop,High Times: Singles 1992-2006,2006,,Sony Music Entertainment UK,B Minor,120,M,GB,92.0,63.0,93.0
+415,0,Lorde,Royals,,189850,pop,Pure Heroine,2013,,Universal Music Nz,G Major,85,F,FIN,43.0,67.0,34.0
+416,0,6ix9ine,GOOBA,,132300,rap|foreignrap|latinfolk,TattleTales,2020,,6IX9INE,D♭ Major,89,M,USA,69.0,61.0,39.0
+417,0,Alesso|Tove Lo,Heroes (We Could Be),Remix,211620,pop|electronics|dance,Girls Night Out,2020,compilation,FP,F Major,126,F,SWE,75.0,50.0,36.0
+418,1,Limp Bizkit,My Way,,273130,numetal|rock|alternative,Greatest Hitz,2005,,Geffen|Flip,F# Major,97,M,USA,86.0,58.0,61.0
+419,1,Little Big,UNO,,160750,dance,UNO,2020,single,Warner Music Russia,A Major,142,F|M,RUS,91.0,84.0,79.0
+420,0,Dj Snake|Lil Jon,Turn Down for What,,215650,electronics|pop|foreignrap|dance,Ultimate Workout,2018,compilation,Sony,D♭ Minor,100,N,USA,80.0,82.0,8.0
+421,1,Coldplay,A Sky Full Of Stars,Radio Edit,236370,rock,HITS 15-16,2015,compilation,"SBA Production LLC, a Warner Music Group Company",F# Major,125,M,GB,68.0,55.0,16.0
+422,0,50 Cent,P.I.M.P.,,250720,foreignrap,Best Of 50 Cent,2017,,Shady Records|Interscope|Aftermath,B♭ Minor,79,M,USA,76.0,70.0,89.0
+423,0,Taylor Swift,I Knew You Were Trouble,,219720,alternative|country|pop,reputation Stadium Tour,2017,,Big Machine Label Group,E♭ Minor,77,F,USA,47.0,62.0,68.0
+424,1,Blur,Song 2,,122000,rock,Blur: The Best Of,2000,,Parlophone,A♭ Major,130,M,GB,79.0,67.0,92.0
+425,0,Rihanna,Don't Stop The Music,,267080,rnb|dance|pop,Good Girl Gone Bad: Reloaded,2008,,The Island Def Jam,F# Minor,123,F,USA,67.0,83.0,54.0
+426,1,Kendrick Lamar,DNA.,,185940,foreignrap,DAMN.,2017,,Aftermath,D♭ Major,140,M,USA,52.0,64.0,42.0
+427,1,Beastie Boys,Sabotage,Remaster,178290,foreignrap,Ill Communication,1994,,Capitol,F# Minor,168,M,USA,94.0,32.0,54.0
+428,1,BADBADNOTGOOD,Triangle,,227530,conjazz,III,2014,,Innovative Leisure,B♭ Major,110,N,CA,94.0,36.0,69.0
+429,0,Lil Nas X,MONTERO (Call Me By Your Name),,137870,alternative|foreignrap|pop,MONTERO (Call Me By Your Name),2021,single,Sony,A♭ Minor,89,M,USA,51.0,61.0,76.0
+430,0,Adam Lambert,Ghost Town,,208330,rock|dance|pop,The Original High,2015,,Warner,E Minor,120,M,USA,74.0,70.0,27.0
+431,1,MØ|Foster The People,Blur,,181960,electronics|foreignrap|pop|indie,Blur,2018,single,Sony Music Entertainment UK,D♭ Minor,140,F,DK,81.0,62.0,47.0
+432,0,OK Go,Obsession,,188050,alternative|rock|pop,Hungry Ghosts,2015,,OK Go|BMG Rights Management (US),A Major,104,M,USA,57.0,76.0,50.0
+433,0,twenty one pilots,Morph,,258850,indie,Trench,2018,,Fueled By Ramen,A♭ Minor,90,M,USA,61.0,73.0,52.0
+434,1,Foster The People,Pumped Up Kicks,,238140,indie,Torches,2011,,Sony,F Minor,128,M,USA,71.0,73.0,96.0
+435,1,Bishop Briggs,River,,214280,indie,Bishop Briggs,2017,single,Teleport,D Minor,63,F,GB,48.0,73.0,55.0
+436,0,Coldplay,Flags,,216490,rock,Flags,2020,single,Parlophone,G Major,90,M,GB,80.0,55.0,51.0
+437,1,Red Hot Chili Peppers,Dark Necessities,,302000,rock,The Getaway,2016,,Warner,F Minor,92,M,USA,74.0,70.0,20.0
+438,1,Rag'n'Bone Man,Human,,198600,indie|foreignrap|pop,Human,2017,,Best Laid Plans|Columbia,A Major,75,M,GB,71.0,60.0,55.0
+439,1,"Tyler, The Creator",RUNNING OUT OF TIME,,177220,rnb|foreignrap|pop,IGOR,2019,,Sony,F# Major,84,M,USA,39.0,36.0,16.0
+440,1,Anderson .Paak,Bubblin,,209090,rnb|foreignrap|soul,Bubblin,2018,single,Aftermath Entertainment,D♭ Major,107,M,USA,87.0,57.0,55.0
+441,1,Shakira,Underneath Your Clothes,,223760,dance|pop|latinfolk,Laundry Service,2001,,Sony Music Entertainment (Holland),A♭ Major,166,F,COL,60.0,62.0,36.0
+442,0,Тимати,В клубе,,266940,rusrap|dance|ruspop,Black Star,2006,,TIMATI,F Minor,96,M,RUS,71.0,81.0,69.0
+443,1,Pink Floyd,"Another Brick In The Wall, Part 2",,238740,pop|rock|prog,A Foot in the Door: The Best Of Pink Floyd,2011,,Pink Floyd,C Major,104,M,GB,39.0,69.0,72.0
+444,1,The Ink Spots,I Don’t Want To Set The World On Fire,,180660,jazz|rnb|pop,Legends,1941,,Play,F Major,87,M,USA,15.0,44.0,33.0
+445,0,The Cure,Friday I'm In Love,,214440,rock,Greatest Hits,2001,,Fiction,C Minor,136,M,GB,76.0,53.0,50.0
+446,1,Ленинград,В Питере — пить,,217740,rusrock,В Питере — пить,2016,single,ShnurOK / Первое музыкальное,F# Minor,79,F|M,RUS,75.0,61.0,82.0
+447,1,Green Day,21 Guns,,322040,rock|punk|alternative,Greatest Hits: God's Favorite Band,2017,,Reprise,F Major,160,M,USA,74.0,27.0,42.0
+448,0,Frank Sinatra,That's Life,,186660,pop|holiday|jazz,Sinatra: Best Of The Best,2011,,Capitol,E Minor,113,M,USA,43.0,56.0,66.0
+449,0,Justin Timberlake,Rock Your Body,,267250,rnb|foreignrap|pop,Justified,2002,,Zomba,E Minor,101,M,USA,71.0,89.0,82.0
+450,0,Lordi,Get Heavy,,180790,hardrock,Get Heavy,2002,,BMG Finland,B♭ Major,145,M,FIN,95.0,48.0,76.0
+451,1,Arctic Monkeys,R U Mine?,,201720,indie,AM,2013,,Союз Мьюзик,F# Minor,97,M,GB,76.0,29.0,62.0
+452,0,Scorpions,Wind Of Change,,311240,hardrock,Crazy World,1990,,The Island Def Jam,C Major,152,M,USA,52.0,45.0,25.0
+453,0,Kings Of Leon,Pyro,,250590,alternative,Come Around Sundown,2010,,RCA,D♭ Minor,115,M,USA,61.0,37.0,19.0
+454,1,Red Hot Chili Peppers,Can't Stop,,269000,rock,The Studio Album Collection 1991-2011,2014,,Warner,A Major,91,M,USA,94.0,62.0,88.0
+455,0,Frank Sinatra,Thats Life,,188020,pop|holiday|jazz,The one and only Sinatra,1958,,THEWEBENGINE,E Minor,113,M,USA,43.0,56.0,66.0
+456,1,Gorillaz|D.R.A.M.,Andromeda,,197540,indie|rnb|foreignrap|dance,Humanz,2017,,Parlophone,C Major,124,M,GB,57.0,70.0,67.0
+457,1,Maroon 5,Sugar,,234030,rock|foreignrap|pop,Singles,2015,,Interscope,D♭ Major,120,M,USA,79.0,75.0,88.0
+458,0,Beyoncé,7/11,,213580,pop,BEYONCÉ,2014,,Sony,A Minor,136,F,USA,70.0,75.0,56.0
+459,1,Outkast,Hey Ya!,,235490,foreignrap|pop,Hip To The Hop: 30th Anniversary Of Hip Hop Hip To Da Hop,2009,compilation,Universal International,E Minor,80,M,USA,97.0,73.0,96.0
+460,1,Gorillaz|Mos Def|Bobby Womack,Stylo,,273450,rnb|foreignrap|indie|pop|soul,Plastic Beach,2010,,Parlophone,B♭ Minor,100,M,GB,75.0,69.0,85.0
+461,0,Billie Eilish,you should see me in a crown,,180950,indie,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,,Darkroom|Interscope,E Major,150,F,USA,53.0,68.0,32.0
+462,1,Oxxxymiron|Markul|Booking machine,Konstrukt,,481990,rusrap|foreignrap|pop,Konstrukt,2018,single,Oxxxymiron,A♭ Major,123,M,UA,82.0,85.0,54.0
+463,1,Gorillaz,Starshine,,211460,indie,Gorillaz,2001,,Parlophone,B Minor,108,M,GB,34.0,81.0,76.0
+464,0,Aaron Smith|Krono|Luvli,Dancin,Remix,198050,foreignrap|dance|house|foreignbard|electronics,Dancin,2015,single,of this edition,B♭ Minor,120,F|M,USA,73.0,75.0,28.0
+465,1,MØ,Maiden,,226340,electronics|foreignrap|pop,No Mythologies to Follow,2014,,Chess Club|RCA Victor,F Minor,96,F,RUS,49.0,55.0,44.0
+466,0,DJ Fresh|Rita Ora,Hot Right Now,Radio Edit,182330,electronics|pop|foreignrap|dance,Nextlevelism,2017,,Ministry Of Sound,E Minor,175,F|M,GB,96.0,51.0,39.0
+467,0,OneRepublic,Run,,169010,rock|dance|pop,Run,2021,single,Mosley|Interscope,B Minor,117,M,USA,72.0,68.0,67.0
+468,1,Ленинград,Экспонат,,230140,rusrock,Экспонат,2016,single,ShnurOK / Первое музыкальное,B Minor,119,F,RUS,70.0,54.0,30.0
+469,1,Radiohead,Karma Police,Remaster,261420,indie,OK Computer OKNOTOK 1997 2017,2017,,XL,G Major,75,M,GB,50.0,36.0,32.0
+470,1,Coldplay,Sparks,,227090,rock,Parachutes,2000,,Parlophone,F Major,76,M,GB,49.0,68.0,49.0
+471,1,Marilyn Manson,Third Day Of A Seven Day Binge,,266700,alternative,Third Day Of A Seven Day Binge,2014,single,Союз Мьюзик по лицензии Cooking Vinyl,C Major,110,M,USA,94.0,61.0,65.0
+472,1,Gorillaz,Clint Eastwood,,343480,indie,Il Ragazzo Invisibile,2014,compilation,Indigo Film Srl -|Warner Music Italia,B♭ Minor,168,M,GB,69.0,66.0,52.0
+473,1,Billie Eilish,No Time To Die,,242260,indie,No Time To Die,2020,single,Darkroom|Interscope,E Minor,74,F,USA,22.0,38.0,5.0
+474,1,Billie Eilish,bury a friend,,193140,indie,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,,Darkroom|Interscope,A♭ Major,120,F,USA,39.0,90.0,20.0
+475,1,MONATIK|Quest Pistols Show,Мокрая,,203220,pop|ruspop,«Физрук». Сезон 4,2017,compilation,Первое музыкальное|ТНТ-Телесеть,B♭ Minor,124,M,UA,71.0,83.0,72.0
+476,0,Lil Pump,Racks on Racks,,129770,films|soundtrack|foreignrap,Harverd Dropout,2019,,Warner,D♭ Major,150,M,USA,48.0,82.0,9.0
+477,0,Herro|Rafo,Quiescence,,184550,african|house|dance|soul,Quiescence,2021,single,Road Story,C Minor,118,M,AZE,76.0,70.0,69.0
+478,0,Егор Крид,Девочка с картинки,,147780,ruspop,58,2020,,Warner Music Russia|Egor Kreed,D♭ Minor,109,M,RUS,82.0,79.0,22.0
+479,0,Nirvana,Heart-Shaped Box,,281330,rock|alternative,Nirvana,2002,,A Geffen Records Release,D♭ Major,102,M,USA,64.0,26.0,38.0
+480,1,Red Hot Chili Peppers,Snow (Hey Oh),,335060,rock,The Studio Album Collection 1991-2011,2014,,Warner,B Major,105,M,USA,90.0,43.0,60.0
+481,0,Tom Waits,Underground,,120420,blues,Beautiful Maladies:  The Island Years,1998,,The Island Def Jam,F Minor,156,M,USA,32.0,77.0,76.0
+482,0,21 Savage,a lot,,288620,foreignrap,i am > i was,2018,,Slaughter Gang|Sony,D♭ Major,146,M,USA,64.0,84.0,27.0
+483,1,Travis Scott,BUTTERFLY EFFECT,,190560,foreignrap|pop|dance,ASTROWORLD,2018,,Epic,B Major,141,M,USA,63.0,76.0,19.0
+484,0,OK Go,Get Over It,,196760,alternative|rock|pop,OK Go / Nike+ Treadmill Workout Mix,2006,,Capitol,D Major,92,M,USA,77.0,39.0,54.0
+485,0,Sorry Jesus|Элджей,18+,,161160,rusrap|alternative|ruspop,BABY БУНТ,2021,,Sorry Jesus,D Major,137,F|M,RUS|USA,83.0,58.0,47.0
+486,0,Peter Power,Red Roses,,377720,lounge|house|electronics,"KR Family EP, Pt. 1",2012,single,Kleine Reise,B Minor,160,F,USA,55.0,70.0,58.0
+487,1,twenty one pilots,Taxi Cab,,285730,indie,Twenty One Pilots,2009,,Twenty One Pilots,A Major,138,M,USA,57.0,57.0,20.0
+488,1,Mac Miller,Ladders,,287040,soul|foreignrap|pop,Swimming,2018,,Warner,A♭ Major,104,M,USA,46.0,80.0,29.0
+489,1,Queen,We Will Rock You,,121860,films|hardrock|rock,The Platinum Collection,2011,,Universal International|Queen,D Major,81,M,GB,50.0,69.0,47.0
+490,1,Gorillaz,DARE,Radio Edit,212010,indie,The Singles Collection 2001-2011,2011,,Parlophone,B Minor,120,M,GB,89.0,76.0,97.0
+491,0,Travis Scott,Antidote,,262690,foreignrap|pop|dance,Rodeo,2015,,Sony,D♭ Major,131,M,USA,53.0,71.0,13.0
+492,1,Disclosure|Sam Smith,Omen,Radio Edit,196860,pop|rnb|dance|electronics,Omen,2015,single,Universal Music operations|Island,A♭ Major,106,M,GB,79.0,67.0,62.0
+493,1,Caesars,Jerk It Out,,195660,rock|pop,Love For The Streets,2004,,Woah Dad|Telegram|Warner Music Sweden,A♭ Minor,134,M,SWE,98.0,58.0,86.0
+494,1,Marilyn Manson,God's Gonna Cut You Down,,160530,alternative,God's Gonna Cut You Down,2019,single,Marilyn Manson,A♭ Major,82,M,USA,75.0,50.0,58.0
+495,1,Artik & Asti|Артём Качер,Грустный дэнс,,217620,rnb|rusrap|ruspop,7 (Part 1),2019,,Self Made,G Minor,118,F|M,UA,76.0,75.0,47.0
+496,1,Oliver Tree,Let Me Down,,111200,indie,Ugly is Beautiful,2020,,Atlantic,G Major,160,M,USA,65.0,46.0,74.0
+497,1,Arctic Monkeys,I Wanna Be Yours,,183960,indie,AM,2013,,Союз Мьюзик,C Minor,68,M,GB,42.0,46.0,48.0
+498,0,Тутси,"Самый, самый",,186590,ruspop,"Самый, самый",2005,,Первое музыкальное,B♭ Minor,82,F,RUS,73.0,69.0,66.0
+499,0,Katy Perry,Roar,,222660,holiday|dance|pop,PRISM,2013,,Capitol,G Minor,90,F,USA,77.0,55.0,46.0
+500,1,a-ha,Take on Me,,224920,rock|pop,The Singles: 1984-2004,2010,,Rhino Entertainment Company,F# Minor,84,M,NO,90.0,57.0,88.0
+501,1,The Notorious B.I.G.,Big Poppa,Radio Edit,252920,foreignrap|rnb|dance,,1995,,,A Minor,84,M,USA,57.0,78.0,77.0
+502,0,Anastacia,Left Outside Alone,Radio Edit,236890,jazz|foreignrap|pop,Pieces Of A Dream,2005,,Sony,D Minor,103,F,USA,75.0,66.0,32.0
+503,1,The Neighbourhood,Sweater Weather,,240400,indie,I Love You.,2013,,Sony,B♭ Major,124,M,USA,81.0,61.0,40.0
+504,0,The Cranberries,Zombie,,307440,rock,Treasure Box : The Complete Sessions 1991-99,2002,,The Island Def Jam,G Major,167,F,IRL,63.0,31.0,30.0
+505,1,Radiohead,No Surprises,Remaster,228380,indie,OK Computer OKNOTOK 1997 2017,2017,,XL,F Major,76,M,GB,39.0,25.0,12.0
+506,0,Lil Pump,Gucci Gang,,124050,films|soundtrack|foreignrap,Lil Pump,2017,,Tha Lights Global|Warner,F Major,120,M,USA,52.0,94.0,70.0
+507,1,Limp Bizkit,Nookie,,289590,numetal|rock|alternative,Significant Other,1999,,Interscope Geffen (A&M)|Universal Music,B Major,98,M,USA,93.0,57.0,28.0
+508,0,The Rasmus,In The Shadows,Radio Edit,257920,alternative,Best of 2001-2009,2009,,,D Major,106,M,FIN,80.0,60.0,75.0
+509,1,Red Hot Chili Peppers,Suck My Kiss,,215040,rock,The Studio Album Collection 1991-2011,2014,,Warner,C Major,102,M,USA,94.0,62.0,70.0
+510,0,6LACK,Switch,,207070,rnb|foreignrap|soul,East Atlanta Love Letter,2018,,LVRN|Interscope,G Major,88,M,USA,66.0,66.0,15.0
+511,1,The Sugarhill Gang,Rappers Delight,,237210,pop|foreignrap|dance,Hip To The Hop: 30th Anniversary Of Hip Hop Hip To Da Hop,2009,compilation,Universal International,B Minor,111,M,USA,85.0,90.0,91.0
+512,1,Ozzy Osbourne,Dreamer,,285450,classicmetal,The Essential Ozzy Osbourne,2003,,Sony,D♭ Major,79,M,USA,64.0,49.0,28.0
+513,1,Kali Uchis,Loner,,212000,pop|rnb|soul,Por Vida,2015,,Tunecore,D♭ Minor,120,F,USA,68.0,72.0,51.0
+514,1,Red Hot Chili Peppers,Tell Me Baby,,247660,rock,The Studio Album Collection 1991-2011,2014,,Warner,C Major,108,M,USA,99.0,69.0,28.0
+515,1,Radiohead,High And Dry,,257530,indie,The Bends,1995,,XL,E Major,88,M,GB,38.0,42.0,35.0
+516,1,Kendrick Lamar,Backseat Freestyle,,212710,foreignrap,"good kid, m.A.A.d city",2013,,Interscope|Aftermath,D♭ Major,78,M,USA,65.0,55.0,65.0
+517,0,Cream Soda|Хлеб,Плачу на техно,,160000,house|rusrap|dance,Плачу на техно,2020,single,Warner Music Russia,C Minor,132,F,RUS,68.0,63.0,48.0
+518,0,Beastie Boys,Intergalactic,Remaster,231490,foreignrap,Hello Nasty,2009,,A Capitol Records Release,D Major,106,M,USA,86.0,73.0,47.0
+519,0,SLAVA MARLOW|Элджей,Злой,,158450,rusrap|dance|ruspop,АРТЁМ,2020,,Zhara Distribution,B Minor,103,M,RUS,54.0,86.0,55.0
+520,0,DJ Marky|Stamina MC|XRS|Stamina MC Carol Carolina Bela,LK Feat. Stamina MC (Carol Carolina Bela),,329750,foreignrap|dance|electronics|dnb,In Rotation,2004,compilation,Innerground,A♭ Minor,174,M,NA,93.0,65.0,97.0
+521,1,Иван Дорн,Чики,,119350,pop,Чики,2020,single,Masterskaya|Condorn Company,B Minor,126,M,RUS,62.0,80.0,23.0
+522,0,Гости из будущего,Ты где-то,,219140,ruspop,Best,2001,,Первое музыкальное,C Minor,139,F|M,RUS,98.0,75.0,97.0
+523,1,Red Hot Chili Peppers,Californication,,329730,rock,The Studio Album Collection 1991-2011,2014,,Warner,A Minor,96,M,USA,77.0,59.0,33.0
+524,0,will.i.am|Cody Wise,It’s My Birthday,,252610,pop|dance|electronics,It’s My Birthday,2014,single,Interscope,F Minor,100,M,USA,71.0,75.0,41.0
+525,1,BLACKPINK,DDU-DU DDU-DU,,209350,kpop,SQUARE UP,2018,single,YG Entertainment,E Minor,140,F,KR,83.0,67.0,39.0
+526,0,Duke Dumont,Ocean Drive,,206370,electronics|house|dance,Blasé Boys Club,2015,single,Adam Dyment,A♭ Minor,115,M,GB,72.0,69.0,56.0
+527,0,Iggy Pop,The Passenger,,282260,rock,A Million In Prizes: Iggy Pop Anthology,2006,,Virgin Records America,C Major,135,M,USA,89.0,50.0,70.0
+528,0,Goodie Mob|Janelle Monáe,Special Education,,247180,pop|rnb|foreignrap|dance,Age Against The Machine,2013,,Warner,B Major,82,F|M,USA,77.0,60.0,65.0
+529,1,Radiohead,Fake Plastic Trees,,291860,indie,The Bends,1995,,XL,D Major,74,M,GB,23.0,46.0,14.0
+530,1,Hurts,Wonderful Life,,254570,dance|pop,Happiness,2011,,Major Label|Sony Music Entertainment UK,B Minor,120,M,GB,84.0,70.0,41.0
+531,0,Asem|Rihanna,Diamonds,,423430,rnb|foreignrap|pop|dance|folk|soul,"Grind Time in Da Hood, Vol. 2",2017,compilation,Iroking,B Minor,92,F,BAR,71.0,56.0,39.0
+532,0,Justin Timberlake,Spaceship Coupe,,437010,rnb|foreignrap|pop,The 20/20 Experience,2013,,Sony,B Minor,126,M,USA,49.0,63.0,27.0
+533,0,Thomas Mraz|Леван Горозия,Бог простит,,122770,foreignrap|rusrap,VICTORY,2021,,Universal Music,F# Minor,120,M,RUS,86.0,80.0,64.0
+534,0,Dua Lipa,Boys Will Be Boys,,166260,house|dance|pop,Future Nostalgia,2021,,A Warner Records UK release,E♭ Major,125,F,GB,49.0,77.0,52.0
+535,0,Wintersun,Death And The Healing,,432980,rock|classicmetal,Wintersun,2004,,Nuclear Blast,F Minor,135,M,FIN,74.0,36.0,35.0
+536,1,Limp Bizkit,Ready To Go,,361360,numetal|rock|alternative,Ready To Go,2013,single,Cash Money,D Major,173,M,USA,94.0,41.0,41.0
+537,0,Miley Cyrus,Who Owns My Heart,,214850,soundtrack|foreignrap|pop,Can't Be Tamed,2010,,Hollywood,A Minor,136,F,USA,81.0,57.0,36.0
+538,1,Pharrell Williams,Happy,Soundtrack,232090,foreignrap|pop|dance,G I R L,2014,,Sony,F Minor,160,M,USA,82.0,65.0,96.0
+539,0,Madonna,Sorry,,281860,rock|dance|pop,Confessions on a Dance Floor,2005,,Warner,C Minor,133,F,ITL,88.0,59.0,44.0
+540,1,Kendrick Lamar,HUMBLE.,,177000,foreignrap,DAMN.,2017,,Aftermath,D♭ Minor,150,M,USA,62.0,91.0,42.0
+541,1,Little Big,Skibidi,,163280,dance,"Antipositive, Pt. 2",2018,,Warner Music Russia,C Major,132,F|M,RUS,76.0,87.0,91.0
+542,0,T-Fest|дора,Cayendo,,189600,rusrap|local-indie,Cayendo,2021,single,Gazgolder,D Major,100,F|M,RUS|UA,62.0,74.0,16.0
+543,0,Егор Крид,Цвет настроения чёрный,,189670,ruspop,Цвет настроения чёрный,2018,single,Black Star,D♭ Minor,160,M,RUS,78.0,72.0,62.0
+544,1,Beyoncé,If I Were a Boy,,249140,pop,I Am... Sasha Fierce,2009,,Sony,F# Major,90,F,USA,52.0,63.0,43.0
+545,1,Mac Miller,Everybody,,256500,soul|foreignrap|pop,Circles,2020,,Warner,A Minor,152,M,USA,60.0,88.0,11.0
+546,1,Imagine Dragons,Demons,,177550,rock,Night Visions,2013,,KIDinaKORNER|Interscope,E♭ Major,90,M,USA,71.0,50.0,43.0
+547,1,The Pussycat Dolls|will.i.am,Beep,,229360,electronics|rnb|pop,PCD,2005,,Pussycat Dolls,G Major,104,F|M,USA,75.0,94.0,52.0
+548,1,Billie Eilish,bad guy,,194080,indie,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,,Darkroom|Interscope,G Major,135,F,USA,43.0,70.0,56.0
+549,0,Tyga|G-Eazy|Rich The Kid,Girls Have Fun,,175710,pop|foreignrap|dance,Legendary,2019,,EMPIRE|Last Kings,A♭ Major,100,M,USA,74.0,89.0,66.0
+550,0,twenty one pilots,Hometown,,234940,indie,Blurryface,2015,,Fueled By Ramen,D Minor,120,M,USA,75.0,68.0,39.0
+551,1,Coldplay,Viva La Vida,,241420,rock,Viva La Vida - Prospekt's March Edition,2008,,Parlophone,F Minor,138,M,GB,62.0,49.0,42.0
+552,1,The Pussycat Dolls,Buttons,,225560,rnb|pop,PCD,2005,,Pussycat Dolls,D Major,105,F,USA,82.0,57.0,41.0
+553,0,Post Malone,Circles,,215280,alternative|foreignrap|dance,Hollywood's Bleeding,2019,,Universal Music,C Major,120,M,USA,76.0,69.0,55.0
+554,0,Santana|Rob Thomas,Smooth,,297020,dance|pop|latinfolk|rock|electronics,Ultimate Santana,2014,,JIVE Label Group|RCA,A Major,116,M,USA,92.0,61.0,96.0
+555,1,Radiohead,Exit Music (For A Film),Remaster,265050,indie,OK Computer OKNOTOK 1997 2017,2017,,XL,E Minor,122,M,GB,28.0,29.0,19.0
+556,1,Mac Miller,Come Back to Earth,,161840,soul|foreignrap|pop,Swimming,2018,,Warner,D Minor,84,M,USA,24.0,27.0,12.0
+557,1,Mac Miller|Miguel,Weekend,,208080,soul|rnb|foreignrap|pop,GO:OD AM,2015,,Warner,A♭ Major,120,M,USA,44.0,84.0,19.0
+558,0,Nirvana,Polly,,173850,rock|alternative,Nevermind,2011,,Geffen,D Minor,121,M,USA,38.0,83.0,54.0
+559,0,Mark Ronson|Miley Cyrus,Nothing Breaks Like a Heart,,217100,foreignrap|soundtrack|dance|pop,Late Night Feelings,2019,,Sony Music Entertainment UK,G Minor,114,F|M,USA,79.0,60.0,24.0
+560,0,Скриптонит|Баста|FEDUK|Truwer|Niman,Мама,,350270,foreignrap|rusrap,Мама,2021,single,Musica36,D♭ Minor,91,M,RUS,58.0,75.0,47.0
+561,1,Баста|Скриптонит|Сергей Бобунец|Диана Арбенина|SunSay|Ант,Сансара,,362720,rusrock|rusrap|ruspop|local-indie,Сансара,2017,single,Gazgolder,E Minor,72,M,KZ|RUS,44.0,33.0,7.0
+562,0,Katy Perry|Nicki Minaj,Swish Swish,,242520,holiday|foreignrap|dance|pop,Witness,2017,,Capitol,F Minor,120,F,USA,70.0,84.0,58.0
+563,1,Kylie Minogue,Can't Get You out of My Head,,230640,pop,Fever,2001,,Parlophone,A Minor,126,F,AU,56.0,77.0,96.0
+564,1,Frank Sinatra,Something Stupid,,160460,pop|holiday|jazz,Singing Love,1967,compilation,THEWEBENGINE,E Major,104,M,USA,32.0,57.0,66.0
+565,0,The Scotts|Travis Scott|Kid Cudi,THE SCOTTS,,165970,alternative|foreignrap|pop|dance,THE SCOTTS,2020,single,Wicked Awesome|Epic Records. With Cactus Jack,C Minor,130,M,USA,58.0,69.0,21.0
+566,1,Eminem,Mockingbird,,250760,foreignrap,Curtain Call: The Hits,2005,,Aftermath Entertainment|Interscope,C Major,84,M,USA,68.0,64.0,25.0
+567,0,Taylor Swift,Mr. Perfectly Fine  (From The Vault),,277590,alternative|country|pop,Fearless,2021,,Taylor Swift,B Minor,136,F,USA,82.0,66.0,71.0
+568,0,6ix9ine,BILLY,,112660,rap|foreignrap|latinfolk,Day69: Graduation Day,2018,,Scumgang|TenThousand Projects,E Minor,90,M,USA,71.0,76.0,77.0
+569,0,Markul,25,,173820,rusrap,Great Depression,2018,,MARKUL|FRWRD,D Minor,128,M,RUS,67.0,78.0,48.0
+570,1,SiR|Masego,Ooh Nah Nah,,240040,rnb|foreignrap|soul,Her Too,2017,,Top Dawg Entertainment,G Minor,117,M,USA,27.0,85.0,57.0
+571,1,MØ,Slow Love,,217160,electronics|foreignrap|pop,No Mythologies to Follow,2014,,Chess Club|RCA Victor,A Minor,100,F,DK,65.0,69.0,65.0
+572,0,Pendulum,Witchcraft,,252960,dance|electronics|dnb,Immersion,2010,,Warner Music UK,D♭ Major,174,M,AU,97.0,42.0,18.0
+573,1,Iggy Azalea|Tyga,Kream,,166620,foreignrap|pop|dance,Survive The Summer,2018,,Island|Universal Music,B♭ Major,174,F|M,USA,43.0,79.0,19.0
+574,1,MØ,Walk This Way,,222770,electronics|foreignrap|pop,No Mythologies to Follow,2014,,Chess Club|RCA Victor,E♭ Major,80,F,DK,14.0,28.0,13.0
+575,0,System of A Down,ATWA,,176200,numetal|rock|alternative,Toxicity,2001,,Sony Music Entertainment. With American,F Minor,87,M,NA,79.0,38.0,37.0
+576,0,Black Eyed Peas|Shakira,GIRL LIKE ME,,222520,rnb|foreignrap|dance|pop|latinfolk,TRANSLATION,2020,,BEP,D Major,124,F|M,USA|COL,49.0,96.0,31.0
+577,1,Егор Крид,Сердцеедка,,184500,ruspop,Сердцеедка,2019,single,Warner Music Russia|Egor Kreed,F# Minor,120,F|M,RUS,78.0,80.0,78.0
+578,0,Bhad Bhabie|Lil Yachty,Gucci Flip Flops,,151850,pop|foreignrap|dance,15,2018,,B.H.A.D,A♭ Major,160,F,USA,60.0,82.0,18.0
+579,0,Nirvana,Come As You Are,,218920,rock|alternative,Nirvana,2002,,A Geffen Records Release,E Minor,120,M,USA,82.0,50.0,54.0
+580,0,Broken Bells,The Ghost Inside,,198880,pop|alternative,Broken Bells,2010,,Sony,D Major,104,M,USA,70.0,87.0,98.0
+581,1,Ol' Dirty Bastard,Shimmy Shimmy Ya,,159260,house|foreignrap,Songs You Know:  Ol' Skool Hip Hop,2007,compilation,Rhino Entertainment Company,C Major,96,M,USA,48.0,81.0,19.0
+582,0,Madonna,Hung Up,Radio Edit,202720,rock|dance|pop,Hung Up,2005,single,Warner,A Minor,125,F,ITL,65.0,65.0,41.0
+583,0,Jennifer Lopez|Pitbull,On The Floor,Radio Edit,230950,foreignrap|dance|pop|latinfolk,On The Floor,2011,single,Gianni Raschiatore,B Major,130,F|M,USA,69.0,76.0,44.0
+584,0,Post Malone,Go Flex,,179610,alternative|foreignrap|dance,Stoney,2016,,Universal Music,F Major,82,M,USA,50.0,67.0,13.0
+585,1,Hippie Sabotage,Wrong Time,,170380,pop|foreignrap|electronics,Wrong Time,2020,single,iHipHop Distribution,D♭ Major,82,M,USA,64.0,60.0,37.0
+586,1,Limp Bizkit,Break Stuff,,166650,numetal|rock|alternative,Greatest Hitz,2005,,Geffen|Flip,A♭ Major,109,M,USA,88.0,43.0,62.0
+587,1,Kali Uchis,telepatía,,160190,pop|rnb|soul,Sin Miedo  ∞,2020,,An EMI|Interscope Records Release,B Minor,84,F,COL,52.0,65.0,55.0
+588,0,Клава Кока,Покинула чат,,173370,ruspop,Покинула чат,2020,single,Black Star,B Minor,144,F,RUS,56.0,88.0,65.0
+589,0,Miley Cyrus,Slide Away,,233650,soundtrack|foreignrap|pop,Slide Away,2019,single,Sony,F Major,148,F,USA,54.0,53.0,29.0
+590,1,Foster The People,Imagination,,256260,indie,Imagination,2019,single,Sony,D Minor,95,M,USA,64.0,74.0,63.0
+591,0,Justice|Simian,We Are Your Friends,Radio Edit,159680,foreignrap|pop|house|rock|electronics,We Are Your Friends,2006,single,A Source UK|Mawlaw 388 Ltd T,A Minor,123,M,FR,97.0,62.0,51.0
+592,1,Taylor Swift,Look What You Made Me Do,,211850,alternative|country|pop,rерutаtiоn,2017,,Big Machine Label Group,A Minor,128,F,USA,71.0,77.0,51.0
+593,0,Amon Amarth,Twilight Of The Thunder God,,248790,extrememetal,Twilight Of The Thunder God,2008,,Metal Blade Records,F# Major,92,M,SWE,92.0,37.0,28.0
+594,1,Иван Дорн,Северное сияние,,287890,pop,CO'N'DORN,2012,,Первое музыкальное,A Minor,113,M,UA,73.0,75.0,80.0
+595,0,Radiohead,Jigsaw Falling Into Place,,248890,indie,In Rainbows,2007,,LLLP|XL,B Minor,166,M,GB,83.0,46.0,81.0
+596,0,Masked Wolf,Astronaut In The Ocean,,132780,electronics|foreignrap|dance,Astronaut In The Ocean,2021,single,Elektra,B Major,104,M,AU,86.0,50.0,24.0
+597,0,Miley Cyrus,Midnight Sky,,223280,soundtrack|foreignrap|pop,Plastic Hearts,2020,,Sony,E Minor,110,F,USA,81.0,70.0,26.0
+598,1,Green Day,Kill the DJ,,221620,rock|punk|alternative,UNO . . . DOS . . . TRÉ!,2012,,Reprise,A Minor,106,M,USA,95.0,67.0,88.0
+599,0,Britney Spears,Gimme More,,251320,pop,Blackout,2015,,Zomba,D Major,113,F,USA,84.0,79.0,38.0
+600,0,Sigma,Nobody To Love,Radio Edit,189770,foreignrap|dance|dnb,Nobody To Love,2014,single,All Around The World|3 Beat,A♭ Major,88,M,GB,91.0,52.0,23.0
+601,1,Survivor,Eye of the Tiger,,233460,hardrock|rock,Ultimate Survivor,2016,,BMG,C Minor,109,M,USA,60.0,82.0,55.0
+602,1,Robbie Williams,Rock DJ,,258560,pop,Sing When You're Winning,2000,,Chrysalis,G Major,103,M,GB,76.0,71.0,84.0
+603,0,Eminem,Not Afraid,,248130,foreignrap,Recovery,2010,,Aftermath,C Minor,115,M,USA,95.0,86.0,67.0
+604,1,Anderson .Paak|Rick Ross,CUT EM IN,,177040,pop|rnb|foreignrap|soul,CUT EM IN,2020,single,Ape Shit,C Major,158,M,USA,78.0,74.0,81.0
+605,0,Little Big,Hypnodancer,,187840,dance,Hypnodancer,2020,single,Warner Music Russia,F Minor,142,M,RUS,70.0,74.0,84.0
+606,1,Pink Floyd,The Great Gig In The Sky,Remaster,283870,pop|rock|prog,The Discovery Boxset,2011,,Pink Floyd,F Major,116,M,GB,22.0,28.0,18.0
+607,0,Duck Sauce,Barbra Streisand,,247680,dance|electronics,Dance Mix USA In the Club,2011,compilation,Phase One,D♭ Major,128,N,CA,81.0,69.0,74.0
+608,0,Tiësto,The Business,,164050,electronics|dance|trance,The Business,2020,single,Atlantic Recording Corporation for the world|Musical Freedom Label,A♭ Minor,120,M,NED,62.0,80.0,23.0
+609,0,ЕГОР ШИП,Dior,,121520,dance|ruspop,Dior,2020,single,Make It Music,C Major,162,M,RUS,70.0,68.0,45.0
+610,0,Eagles,Hotel California,Remaster,391370,folkrock|rock|pop,Hotel California,2006,,Elektra|Warner Strategic Marketing,D Major,147,M,USA,51.0,58.0,61.0
+611,0,Chase & Status|Liam Bailey,Blind Faith,,233660,rnb|dance|dnb|reggae|soul|electronics,No More Idols,2011,,Chase & Status,F# Minor,112,M,GB,99.0,39.0,10.0
+612,0,Sam Smith,Fire On Fire,Soundtrack,246730,electronics|dance|pop,Love Goes,2020,,A Capitol Records UK release,D♭ Minor,115,M,USA,41.0,58.0,33.0
+613,0,Eminem,The Real Slim Shady,,284200,foreignrap,Curtain Call: The Hits,2005,,Aftermath Entertainment|Interscope,F Minor,105,M,USA,66.0,95.0,76.0
+614,1,twenty one pilots,The Hype,,265370,indie,Trench,2018,,Fueled By Ramen,A Major,87,M,USA,82.0,53.0,37.0
+615,0,The Rolling Stones,Paint It Black,,224130,rnr|rock|blues,Hot Rocks (1964-1971),1972,,ABKCO Music and Records,D♭ Major,159,M,USA,80.0,46.0,61.0
+616,1,Daft Punk|Pharrell Williams|Nile Rodgers,Get Lucky,,369620,pop|foreignrap|electronics|dance,Random Access Memories,2013,,Daft life|Sony,F# Minor,116,M,USA,81.0,79.0,86.0
+617,1,Guns N' Roses,Don't Cry,,284130,hardrock|rock,Use Your Illusion I,1991,,Geffen,B Major,125,M,USA,59.0,46.0,24.0
+618,1,Dizzee Rascal,Make It Last,,194370,pop|foreignrap|dance,Raskit,2017,,Dirtee Stank,F# Minor,95,M,GB,69.0,88.0,40.0
+619,1,MONATIK,Каждый раз,Soundtrack,239190,pop,Love It ритм,2019,,Первое музыкальное,B♭ Minor,118,M,UA,70.0,84.0,61.0
+620,1,Queen|David Bowie,Under Pressure,Remaster,244480,films|hardrock|dance|pop|rock,Hot Space,2011,,Universal International|Raincloud,D Major,113,M,GB,55.0,66.0,41.0
+621,1,Sergei Prokofiev|Orchestre Symphonique de Montréal|Charles Dutoit,"Romeo and Juliet Op. 64, ACT 1: The Knights' Dance",,237050,classical,Legend of the Orchestra,2009,compilation,Warner Classics|Erato,E Minor,95,N,NA,10.0 ,19.0,16.0
+622,0,Gorillaz|Kali Uchis,She's My Collar,,209560,indie|pop|rnb|soul,Humanz,2017,,Parlophone,B Major,140,F|M,GB,81.0,73.0,46.0
+623,0,Sabaton,The Attack of the Dead Men,,235720,epicmetal,The Great War,2019,,Nuclear Blast,A Minor,116,M,SWE,98.0,52.0,24.0
+624,1,Stevie Wonder,I Just Called To Say I Love You,Single Edit,260610,pop,At The Close Of A Century,1999,,Motown|Universal Music,D♭ Major,114,M,USA,55.0,74.0,67.0
+625,0,Minelli,Rampampam,,200210,pop|electronics|dance,Rampampam,2021,single,Global,E♭ Minor,118,F,NA,65.0,80.0,44.0
+626,1,Beyoncé,Irreplaceable,,227660,pop,B'Day,2008,,Sony BMG Music Entertainment,G Minor,176,F,USA,69.0,45.0,51.0
+627,0,Pendulum,Slam,,259580,dance|electronics|dnb,Live At Brixton Academy,2009,,Warner Music UK,B♭ Minor,174,N,AU,98.0,43.0,30.0
+628,0,Lenny Kravitz,The Chamber,,297300,rock,Strut,2014,,Roxie,G Major,118,M,USA,93.0,66.0,91.0
+629,1,Post Malone,Better Now,,231260,alternative|foreignrap|dance,beerbongs & bentleys,2018,,Universal Music,B♭ Major,145,M,USA,58.0,68.0,34.0
+630,0,Battle Beast,Black Ninja,,242140,epicmetal,Battle Beast,2013,,Nuclear Blast,B Minor,85,M,FIN,94.0,50.0,49.0
+631,0,Katy Perry,Hot N Cold,Soundtrack,223220,holiday|dance|pop,One Of The Boys,2008,,Capitol,G Major,132,F,USA,84.0,71.0,86.0
+632,1,twenty one pilots,Bandito,,330980,indie,Trench,2018,,Fueled By Ramen,B Minor,127,M,USA,52.0,66.0,43.0
+633,0,Marilyn Manson,Ka-Boom Ka-Boom,,242880,alternative,The Golden Age Of Grotesque,2003,,Interscope|Nothing,F# Major,100,M,USA,96.0,39.0,40.0
+634,1,The Prodigy,Smack My Bitch Up,,343390,electronics,Their Law: The Singles 1990-2005,2005,,XL,B♭ Minor,136,M,GB,100.0,60.0,26.0
+635,1,Gorillaz,November Has Come,,165090,indie,Demon Days,2005,,Parlophone,G Major,84,M,GB,57.0,70.0,67.0
+636,0,Limp Bizkit,Why Try,Soundtrack,171410,numetal|rock|alternative,Gold Cobra,2011,,Interscope|Flip,F# Major,101,M,USA,99.0,57.0,67.0
+637,0,twenty one pilots,Legend,Soundtrack,172560,indie,Trench,2018,,Fueled By Ramen,C Major,86,M,USA,57.0,72.0,80.0
+638,0,Accept,Metal Heart,,323660,classicmetal,Metal Heart,1985,,Sony BMG Music Entertainment,G Major,116,M,DE,55.0,32.0,17.0
+639,1,Panic! At The Disco,House of Memories,,208700,rock,Death of a Bachelor,2016,,Fueled By Ramen,B Minor,110,M,USA,82.0,51.0,51.0
+640,1,Tame Impala,The Less I Know The Better,,216320,indie|rock|alternative,Currents,2015,,Modular,E Major,117,M,GB,75.0,65.0,80.0
+641,1,Taylor Swift,Shake It Off,,219200,alternative|country|pop,1989,2014,,Big Machine,G Major,160,F,USA,79.0,65.0,94.0
+642,0,Wilkinson|Becky Hill,Afterglow,,225170,pop|dance|electronics|dnb,Get To Know,2019,,Eko Records Release,G Major,174,F|M,GB,92.0,52.0,4.0
+643,0,The Handsome Family,Far from Any Road,,168220,country|rock|alternative,Singing Bones,2009,,The Handsome Family|Loose,A Minor,120,F|M,USA,56.0,71.0,75.0
+644,1,twenty one pilots,Fairly Local,,207160,indie,Blurryface,2015,,Fueled By Ramen,F# Minor,115,M,USA,72.0,71.0,48.0
+645,0,Mac Miller,Nikes On My Feet,,164680,soul|foreignrap|pop,K.I.D.S.,2020,,Rostrum,A Minor,92,M,USA,57.0,80.0,59.0
+646,1,Nirvana,Rape Me,,169180,rock|alternative,Nirvana,2002,,A Geffen Records Release,A♭ Major,112,M,USA,75.0,42.0,23.0
+647,1,Radiohead,Lucky,,259620,indie,OK Computer,1997,,XL,B Minor,133,M,GB,40.0,21.0,19.0
+648,1,Lana Del Rey,Young And Beautiful,Soundtrack,238530,pop,Young And Beautiful,2013,single,Lana Del Rey,B Minor,114,F,USA,42.0,32.0,15.0
+649,0,MARUV,Siren Song,,169540,pop|dance|ruspop,Siren Song,2019,single,Warner Music Russia,E Minor,115,F,UA,79.0,73.0,67.0
+650,1,T-Fest,Ламбада,,198120,rusrap,Ламбада,2017,single,Gazgolder,D Major,96,M,KZ,53.0,78.0,19.0
+651,0,will.i.am,Heartbreaker,,328280,electronics,Songs About Girls,2007,,Interscope,A Minor,120,M,USA,55.0,79.0,45.0
+652,1,M.I.A.,Bad Girls,,227520,foreignrap|dance|electronics,Matangi,2013,,Maya Arulpragasam,D♭ Major,143,F,USA,91.0,64.0,34.0
+653,1,Монеточка,Каждый раз,,208140,local-indie,Раскраски для взрослых,2018,,М2,G Minor,113,F,RUS,81.0,81.0,51.0
+654,1,twenty one pilots,Levitate,,145940,indie,Trench,2018,,Fueled By Ramen,F# Minor,93,M,USA,93.0,70.0,22.0
+655,0,Lady Gaga|BLACKPINK,Sour Candy,,157700,kpop|pop,Chromatica,2020,,Interscope,A Minor,120,F,KR|USA,87.0,75.0,78.0
+656,0,Akon|Eminem,Smack That,,213240,foreignrap,Essential 5,2007,single,Universal Music,F Minor,119,M,USA,74.0,94.0,92.0
+657,0,Madonna,Music,,225960,rock|dance|pop,Best Of The Best,2010,compilation,Universal International,G Major,120,F,ITL,80.0,74.0,87.0
+658,1,Y2K|bbno$,Lalala,,160630,rock|foreignrap|pop|dance,Lalala,2019,single,Y2K,D Major,130,M,CA|USA,39.0,84.0,50.0
+659,0,Turisas,To Holmgard And Beyond,,318560,folkmetal,The Varangian Way,2007,,Century Media,B♭ Major,94,M,FIN,91.0,23.0,17.0
+660,0,Radiohead,Street Spirit (Fade Out),,252400,indie,The Bends,1995,,XL,E Minor,138,M,GB,45.0,49.0,13.0
+661,0,,"La Traviata - Opera in three acts, Act I: Libiamo ne' lieti calici (Brindisi)",Remaster,182000,|classical|vocal,Verdi: La Traviata,2017,,EMI Records Ltd. Digital remastering,B♭ Minor,69,N,NA,,,
+662,0,Kygo|Parson James,Stole the Show,,222800,pop|house|dance|electronics,Cloud Nine,2016,,Kygo|Ultra|Sony,A♭ Minor,100,F,USA,63.0,64.0,47.0
+663,0,Gorillaz,Souk Eye,,274760,indie,The Now Now,2018,,Parlophone,D Minor,124,M,GB,85.0,64.0,83.0
+664,1,Gorillaz|ScHoolboy Q,Song Machine: Pac-Man,,192880,indie|rnb|foreignrap|soul,"Song Machine, Season One: Strange Timez",2020,,Under exclusive licence to Parlophone,G Minor,96,M,GB|USA,81.0,76.0,73.0
