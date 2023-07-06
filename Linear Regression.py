@@ -56,7 +56,9 @@ for i in range(epochs):
 
 print(m,b)
 
+
 plt.scatter(X,Y)
 plt.plot(list(range(-4,4)), [m*x + b for x in range(-4,4)], color = 'red')
-plt.show()
+plt.title('Linear Regression')
 plt.savefig('LinearRegression_Example')
+plt.show()
