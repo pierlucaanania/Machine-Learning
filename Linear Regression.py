@@ -62,3 +62,4 @@ plt.plot(list(range(-4,4)), [m*x + b for x in range(-4,4)], color = 'red')
 plt.title('Linear Regression from Scratch')
 plt.savefig('LinearRegression_Example')
 plt.show()
+

@@ -1,4 +1,4 @@
-''' PERCEPTRON FROM SCATCH '''
+''' PERCEPTRON FROM SCRATCH '''
 
 import numpy as np
 
@@ -94,3 +94,4 @@ if __name__ == '__main__':
     ax.set_ylim([ymin - 3, ymax + 3])
 
     plt.show()
+
