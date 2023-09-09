@@ -57,8 +57,8 @@ if __name__ == '__main__':
 
     X,y = datasets.make_blobs(
         n_samples=1500,
-        n_features=2,
-        centers=2,
+        n_features=3,
+        centers=3,
         cluster_std=1.5,
         random_state=2
     )
@@ -67,7 +67,7 @@ if __name__ == '__main__':
                                                         random_state=123
                                                         )
     p = Perceptron(learning_rate=0.01,
-                   n_iteration=1000
+                   n_iteration=100
                    )
     p.fit(X_train,y_train)
     predictions = p.predict(X_test)
