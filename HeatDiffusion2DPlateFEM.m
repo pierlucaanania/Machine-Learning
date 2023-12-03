@@ -13,7 +13,7 @@
 % This code is designed to solve the heat equation in a 2D plate.
 % Using fixed boundry conditions "Dirichlet Conditions" and initial
 % temperature in all nodes, It can solve until reach steady state with
-% tolerence value selected below.
+% tolerance value selected below.
 % After solution, graphical simulation appears to show you how the heat
 % diffuses throughout the plate within time interval selected below
 
