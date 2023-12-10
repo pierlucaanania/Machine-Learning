@@ -80,6 +80,7 @@ for yi in range(3):
 
 plt.tight_layout()
 plt.show()
+plt.title("Soft-DTW $k$-means")
 
 
 
